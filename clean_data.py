@@ -33,7 +33,7 @@ selected_aisle_id = (2, 24, 42, 47, 57, 83, 84, 86, 91, 95, 96, 112, 117, 120, 1
 products = pd.read_csv(os.path.join(instacart_path, "products.csv"))
 nutrition  = pd.read_csv(os.path.join(ROOT_DIR, "nutrition.csv"))
 nutrition.rename(columns={'Unnamed: 0': 'nid'}, inplace=True)
-selected_products = products.loc[products['aisle_id'].isin(selected_aisle_id)].reset_index()
+selected_products = products.loc[products['aisle_id'].isin(selected_aisle_id)].reset_index(drop=True)
 product_names = list(selected_products['product_name'])
 nutrition_names = list(nutrition['name'])
 
@@ -46,7 +46,7 @@ def BERT_embedding(texts, model, tokenizer):
     # initialize dictionary to store tokenized sentences
     tokens = {'input_ids': [], 'attention_mask': []}
     for text in texts:
-        new_tokens = tokenizer.encode_plus(text, max_length=64, truncation=True,
+        new_tokens = tokenizer.encode_plus(text, max_length=32, truncation=True,
                                 padding='max_length', return_tensors='pt')
         tokens['input_ids'].append(new_tokens['input_ids'][0])
         tokens['attention_mask'].append(new_tokens['attention_mask'][0])
