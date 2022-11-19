@@ -39,18 +39,21 @@ product_names = list(selected_products['product_name'])
 
 order_prod_counter = Counter(order_products.iloc[:,1]) # count product_id appearance
 popular_products = order_prod_counter.most_common(5000) # (prod_id, appearance)
-popular_prod_id  = list(zip(*popular_products))[0]
+popular_products_id_freq = list(zip(*popular_products))
+popular_prod_id = popular_products_id_freq[0]
 selected_popular_id = [id for id in list(popular_prod_id) if id in list(selected_products['product_id'])]
 
 # find orders contains
 filtered_order_products = order_products.loc[order_products['product_id'].isin(selected_popular_id)]
-filtered_order_products.to_csv(os.path.join(ROOT_DIR,"filtered_order_products.csv"), index=False)
+# filtered_order_products.to_csv(os.path.join(ROOT_DIR,"filtered_order_products.csv"), index=False)
+
 # find order id
 filtered_order_id = filtered_order_products['order_id'].unique()
+
 # find customers in these order id
 orders = pd.read_csv(os.path.join(instacart_path, "orders.csv"))
 filtered_orders = orders.loc[orders['order_id'].isin(filtered_order_id)]
-filtered_orders.to_csv(os.path.join(ROOT_DIR,"filtered_orders.csv"), index=False)
+# filtered_orders.to_csv(os.path.join(ROOT_DIR,"filtered_orders.csv"), index=False)
 filtered_user_id = filtered_orders['user_id'].unique()
 
 # nutrition types
@@ -116,4 +119,6 @@ colnames_list = ['product_id', 'product_name', 'aisle_id', 'department_id', 'nid
 colnames_list.extend(nutri_list)
 filtered_products = nutri_prod[colnames_list]
 filtered_products = filtered_products.loc[filtered_products['product_id'].isin(selected_popular_id)]
-filtered_products.to_csv(os.path.join(ROOT_DIR,"filtered_products.csv"), index=False)
+filtered_products['product_freq'] = filtered_products['product_id'].apply(lambda x: 
+    popular_products_id_freq[1][popular_products_id_freq[0].index(x)])
+# filtered_products.to_csv(os.path.join(ROOT_DIR,"filtered_products.csv"), index=False)
