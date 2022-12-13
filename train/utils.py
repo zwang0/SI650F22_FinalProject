@@ -21,6 +21,7 @@ import csv
 import logging
 import os
 import sys
+import numpy as np
 from io import open
 from sklearn.metrics import f1_score,roc_auc_score
 
@@ -277,7 +278,8 @@ def simple_accuracy(preds, labels):
 
 
 def acc_and_f1(preds, labels):
-    preds = [1 if it > 0.5 else 0 for it in preds]
+    # preds = [1 if it > 0.5 else 0 for it in preds]
+    preds = 1/(1 + np.exp(-preds))
     acc = simple_accuracy(preds, labels)
     f1 = f1_score(y_true=labels, y_pred=preds)
     return {
