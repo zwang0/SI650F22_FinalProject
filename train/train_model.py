@@ -123,9 +123,9 @@ class Args:
         self.server_port = ""
         
         # Input and output files.
-        self.train_file = "train_all_1k.csv" # CHANGE ME WHEN READY TO TRAIN!!!!!
-        self.dev_file = "valid_all_100.txt"
-        self.test_file = "test_all_500.txt"
+        self.train_file = "train_all_4k.csv" # CHANGE ME WHEN READY TO TRAIN!!!!!
+        self.dev_file = "valid_all_700.txt"
+        self.test_file = "test_all_2k.txt"
         self.pred_model_dir = os.path.join(ROOT_DIR, 'models', 'checkpoint-best')
         self.test_result_dir = os.path.join(ROOT_DIR, 'results')
 
