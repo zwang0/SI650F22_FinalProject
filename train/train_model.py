@@ -463,7 +463,7 @@ with open(output_test_file, "w") as outf:
     logger.info("***** Writing relevance predictions *****")
     all_logits = relevance_predictions.tolist()
     for score in all_logits:
-        outf.write(score)
+        outf.write(str(score))
 
 # Optional part 3 goes here
 # you may find the list of files for each epoch's trained model's relevance predictions under folder results
@@ -497,4 +497,4 @@ for idx in range(0, args.num_train_epochs):
         logger.info("***** Writing relevance predictions *****")
         all_logits = relevance_predictions.tolist()
         for score in all_logits:
-            outf.write(score)
+            outf.write(str(score))
