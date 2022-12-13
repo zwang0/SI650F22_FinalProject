@@ -7,6 +7,7 @@ import os
 import random
 import numpy as np
 import torch
+import csv
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler,
                               TensorDataset)
 # from torch.utils.data.distributed import DistributedSampler
@@ -462,8 +463,8 @@ output_test_file = os.path.join(args.test_result_dir, 'relevance-scores.csv')
 with open(output_test_file, "w") as outf:
     logger.info("***** Writing relevance predictions *****")
     all_logits = relevance_predictions.tolist()
-    for score in all_logits:
-        outf.write(str(score))
+    writer = csv.writer(outf)
+    writer.writerow(all_logits) 
 
 # Optional part 3 goes here
 # you may find the list of files for each epoch's trained model's relevance predictions under folder results
@@ -496,5 +497,5 @@ for idx in range(0, args.num_train_epochs):
     with open(output_test_file, "w") as outf:
         logger.info("***** Writing relevance predictions *****")
         all_logits = relevance_predictions.tolist()
-        for score in all_logits:
-            outf.write(str(score))
+        writer = csv.writer(outf)
+        writer.writerow(all_logits)  
