@@ -124,10 +124,10 @@ class Args:
         
         # Input and output files.
         self.train_file = "train_all_1k.csv" # CHANGE ME WHEN READY TO TRAIN!!!!!
-        self.dev_file = "valid.txt"
-        self.test_file = "test_data.txt"
+        self.dev_file = "valid_all_100.txt"
+        self.test_file = "test_all_500.txt"
         self.pred_model_dir = os.path.join(ROOT_DIR, 'models', 'checkpoint-best')
-        self.test_result_dir = './results/'
+        self.test_result_dir = os.path.join(ROOT_DIR, 'results')
 
 args = Args()
 
@@ -357,6 +357,7 @@ if os.path.exists(optimizer_last):
 
 logger.info("Training/evaluation parameters %s", args)
 
+# Training
 # Load in the training dataset. Here, we've handled most of the data preprocessing for you
 train_dataset = load_and_cache_examples(args, args.task_name, tokenizer, ttype='train')
 
@@ -384,3 +385,16 @@ torch.save(args, os.path.join(args.output_dir, 'training_args.bin'))
 model = AutoModel.from_pretrained(args.output_dir)
 tokenizer = AutoTokenizer.from_pretrained(args.output_dir)
 model.to(args.device)
+
+# Evaluate the best model on the test data
+checkpoint = args.output_dir
+
+logger.info("Evaluate the following checkpoint: %s", checkpoint)
+
+print(checkpoint)
+global_step = ""
+model = model_class.from_pretrained(checkpoint)
+model.to(args.device)
+result = evaluate(args, model, tokenizer, checkpoint=checkpoint, prefix=global_step)
+result = dict((k + '_{}'.format(global_step), v) for k, v in result.items())
+print(result)
