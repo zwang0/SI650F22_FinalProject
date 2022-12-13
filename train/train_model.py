@@ -90,7 +90,7 @@ class Args:
         self.weight_decay = 0.0
         self.adam_epsilon = 1e-8
         self.max_grad_norm = 1.0
-        self.num_train_epochs = 1 # NOTE: Change this to 1 if debugging so it runs faster # 5
+        self.num_train_epochs = 5 # NOTE: Change this to 1 if debugging so it runs faster # 5
         self.max_steps = -1
         self.warmup_steps = 0
         self.n_gpu = 1
@@ -163,7 +163,7 @@ def train(args, train_dataset, model, tokenizer, optimizer):
 
     global_step = args.start_step
     tr_loss, logging_loss = 0.0, 0.0
-    best_acc = 0.0
+    best_rmse = 0.0
     model.zero_grad()
     
     # Note that this "train_iterator" is just tdqm wrapper that prints out which
@@ -264,8 +264,8 @@ def train(args, train_dataset, model, tokenizer, optimizer):
         # If this model is better (on the training data) than the models from any of the 
         # past checkpoints, then keep a separate record of that too
         #
-        if (results['acc'] > best_acc):
-            best_acc = results['acc']
+        if (results['rmse'] > best_rmse):
+            best_rmse = results['rmse']
             output_dir = os.path.join(args.output_dir, 'checkpoint-best')
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
@@ -398,3 +398,103 @@ model.to(args.device)
 result = evaluate(args, model, tokenizer, checkpoint=checkpoint, prefix=global_step)
 result = dict((k + '_{}'.format(global_step), v) for k, v in result.items())
 print(result)
+
+# Optional part 3 goes here
+# evaluate for each epoch
+models_list = [None]*args.num_train_epochs
+results_list = [None]*args.num_train_epochs
+for idx in range(0, args.num_train_epochs):
+    epoch_checkpoint_folder = 'checkpoint-epoch' + str(idx)
+    checkpoint = os.path.join(args.output_dir, epoch_checkpoint_folder)
+    print(checkpoint)
+    global_step = ""
+    model = model_class.from_pretrained(checkpoint)
+    model.to(args.device)
+    models_list[idx] = model
+    result = evaluate(args, model, tokenizer, checkpoint=checkpoint, prefix=global_step)
+    result = dict((k + '_{}'.format(global_step), v) for k, v in result.items())
+    print(result)
+    results_list[idx] = result
+
+# plot rmse scores for each epoch
+# import matplotlib.pyplot as plt
+# x = list(range(args.num_train_epochs))
+# y = [dict['f1_'] for dict in results_list]
+# plt.plot(x, y)
+# plt.ylabel('F1 scores')
+# plt.xlabel('Epoch')
+# plt.xticks(x)
+# plt.show()
+
+
+model.eval()
+eval_dataset, instances = load_and_cache_examples(args, "codesearch", tokenizer, ttype='test')
+eval_sampler = SequentialSampler(eval_dataset)
+eval_dataloader = DataLoader(eval_dataset, sampler=eval_sampler, batch_size=args.eval_batch_size)
+
+# This data structures will have our predictions and we'll fill them as we process each batch
+relevance_predictions = np.array([])
+
+for batch in tqdm(eval_dataloader, desc="Evaluating"):
+    batch = tuple(t.to(args.device) for t in batch)
+
+    with torch.no_grad():
+        
+        # Prepare the inputs
+        inputs = {'query_token_ids': batch[0],
+                  'code_token_ids': batch[1],
+                  'labels': batch[3]}
+       
+        # Note that this is a list of outputs, which includes the cosine
+        # similarity, among other stuff
+        outputs = model(**inputs)
+
+    _, cosine_sim = outputs[:2] 
+    cosine_sims = cosine_sim.cpu().numpy()
+
+    relevance_predictions = np.append(relevance_predictions, cosine_sims, axis=0)
+
+if not os.path.exists(args.test_result_dir):
+    os.makedirs(args.test_result_dir)
+
+output_test_file = os.path.join(args.test_result_dir, 'relevance-scores.csv')
+
+with open(output_test_file, "w") as outf:
+    logger.info("***** Writing relevance predictions *****")
+    all_logits = relevance_predictions.tolist()
+    for score in all_logits:
+        outf.write(score)
+
+# Optional part 3 goes here
+# you may find the list of files for each epoch's trained model's relevance predictions under folder results
+# the files are name in the form of epochXrelavance_scores.csv, where X is the number of epoch from 0 to 4
+for idx in range(0, args.num_train_epochs):
+    model = models_list[idx]
+    model.eval()
+    relevance_predictions = np.array([])
+    
+    for batch in tqdm(eval_dataloader, desc="Evaluating"):
+        batch = tuple(t.to(args.device) for t in batch)
+
+        with torch.no_grad():
+            # Prepare the inputs
+            inputs = {'query_token_ids': batch[0],
+                      'code_token_ids': batch[1],
+                      'labels': batch[3]}
+            outputs = model(**inputs)
+        _, cosine_sim = outputs[:2] 
+        cosine_sims = cosine_sim.cpu().numpy()
+
+        # Add these similarities to our current similarities
+        relevance_predictions = np.append(relevance_predictions, cosine_sims, axis=0)
+    
+    if not os.path.exists(args.test_result_dir):
+        os.makedirs(args.test_result_dir)
+    file_name = 'epoch' + str(idx) + 'relevance-scores.csv' # name each file here
+    output_test_file = os.path.join(args.test_result_dir, file_name)
+
+    with open(output_test_file, "w") as outf:
+        logger.info("***** Writing relevance predictions *****")
+        all_logits = relevance_predictions.tolist()
+        for score in all_logits:
+            outf.write(score)
