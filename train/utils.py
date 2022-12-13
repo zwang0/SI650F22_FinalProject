@@ -23,7 +23,7 @@ import os
 import sys
 import numpy as np
 from io import open
-from sklearn.metrics import f1_score,roc_auc_score
+from sklearn.metrics import f1_score,roc_auc_score, mean_squared_error
 
 # csv.field_size_limit(sys.maxsize)
 logger = logging.getLogger(__name__)
@@ -281,11 +281,10 @@ def acc_and_f1(preds, labels):
     # preds = [1 if it > 0.5 else 0 for it in preds]
     preds = 1/(1 + np.exp(-preds))
     acc = simple_accuracy(preds, labels)
-    f1 = f1_score(y_true=labels, y_pred=preds)
+    rmse = mean_squared_error(y_true=labels, y_pred=preds, squared=False)
     return {
         "acc": acc,
-        "f1": f1,
-        "acc_and_f1": (acc + f1) / 2,
+        "rmse": rmse,
     }
 
 
