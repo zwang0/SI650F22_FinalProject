@@ -265,7 +265,7 @@ def train(args, train_dataset, model, tokenizer, optimizer):
         # If this model is better (on the training data) than the models from any of the 
         # past checkpoints, then keep a separate record of that too
         #
-        if (results['rmse'] > best_rmse):
+        if (results['rmse'] < best_rmse):
             best_rmse = results['rmse']
             output_dir = os.path.join(args.output_dir, 'checkpoint-best')
             if not os.path.exists(output_dir):
