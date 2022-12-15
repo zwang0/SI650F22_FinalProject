@@ -1,0 +1,2052 @@
+;user_id;predict_order;order_length
+0;48;Baby Arugula;1
+1;62;Organic Peach Lowfat Yogurt, Organic Red Onion;2
+2;121;Total 0% Greek Yogurt;1
+3;163;Dha Omega 3 Vitamin D Milk, Red Seedless Grapes, Organic Granny Smith Apples;3
+4;549;Honey Turkey;1
+5;555;Organic Gala Apples;1
+6;617;Whole Milk;1
+7;692;Grade A Large White Eggs, Banana;2
+8;708;Bartlett Pears, Bartlett Pears, Bartlett Pears, Pears, Brussels Sprouts;5
+9;737;Banana, Iceberg Garden Salad Blend, Banana, Banana, Banana, Whole Wheat Bread;6
+10;772;Unsweetened Almondmilk;1
+11;923;Organic Large Grade AA Omega-3 Eggs, Organic Yellow Onion, Quaker Life Cinnamon Cereal;3
+12;956;Fat Free Milk, Fat Free Milk, Fat Free Milk;3
+13;1124;Low Fat 1% Milk;1
+14;1185;Fat Free Milk, Fat Free Milk, 2% Reduced Fat DHA Omega-3 Reduced Fat Milk, Fat Free Milk, 2% Reduced Fat DHA Omega-3 Reduced Fat Milk, Sliced Mushrooms;6
+15;1188;Sweet Kale Chopped Salad;1
+16;1258;Total Greek Strained Yogurt, Strawberries;2
+17;1259;Total 0% Nonfat Greek Yogurt, Total 0% Nonfat Greek Yogurt, Total 2% Greek Strained Yogurt with Cherry 5.3 oz;3
+18;1266;Organic Gluten Free Summer Berries Granola, Organic Coconut Milk;2
+19;1335;Organic Red Onion;1
+20;1418;Organic Zucchini Spirals;1
+21;1497;Pink Lady (Cripps) Apple, Braeburn Apple, Honey Wheat Bread;3
+22;1610;Organic Grade A Free Range Large Brown Eggs;1
+23;1828;Non-Fat Greek Yogurt With Strawberries on the Bottom;1
+24;1871;Granny Smith Apples, Granny Smith Apples;2
+25;1882;Organic Baby Arugula, Organic Whipped Naturally Buttery Spread;2
+26;1997;Banana;1
+27;2311;Reduced Fat 2% Milk;1
+28;2419;Orange Bell Pepper, Organic Blueberries;2
+29;2467;Honey Wheat Enriched Bread;1
+30;2526;Organic Yellow Onion;1
+31;2660;Flaxmilk 1200 mg Omega-3 Vanilla;1
+32;2713;Pure Almond Unsweetened Original Almond Milk;1
+33;2729;Organic Strawberries;1
+34;3005;Healthy Grains Oats & Honey Clusters with Toasted Coconut Gluten Free;1
+35;3155;Grape White/Green Seedless;1
+36;3267;Organic Lacinato (Dinosaur) Kale;1
+37;3314;Honeycrisp Apple;1
+38;3316;Corn Tortillas, Honeycrisp Apples;2
+39;3603;Fresh Cauliflower;1
+40;3743;Organic Red On the Vine Tomato;1
+41;3759;Bag of Organic Bananas, Banana;2
+42;3769;Fresh Cauliflower;1
+43;3779;Unsweetened Cashew Milk;1
+44;3780;Total 2% Lowfat Plain Greek Yogurt;1
+45;4085;Dry Roasted Lightly Salted Peanuts, Large Lemon;2
+46;4235;Roma Tomato;1
+47;4440;Organic Vanilla Almond Milk;1
+48;4452;Low-Fat Strawberry Banana on the Bottom Greek Yogurt;1
+49;4568;Original Almondmilk;1
+50;4574;Banana;1
+51;4670;Hass Avocado Variety;1
+52;4729;Dairy Free Unsweetened Coconut Milk;1
+53;5037;Organic Unsweetened Almond Milk;1
+54;5056;Banana;1
+55;5075;Raspberry on the Bottom Nonfat Greek Yogurt;1
+56;5142;Organic Fat Free Milk;1
+57;5178;Gluten Free 7 Grain Bread, Gluten Free 7 Grain Bread, Organic Lactose Free Whole Milk, Organic Iceberg Lettuce;4
+58;5448;Seedless Small Watermelon;1
+59;5551;Large Lemon;1
+60;5598;Heart to Heart Organic Oat Flakes & Blueberry Clusters Cereal;1
+61;5698;Organic Snipped Green Beans, Organic Snipped Green Beans, Organic Snipped Green Beans;3
+62;5827;Cara Cara Navel Orange, Organic Navel Orange;2
+63;6106;Organic Whole Milk;1
+64;6166;Vitamin C Super Orange Dietary Supplement;1
+65;6190;Limes;1
+66;6440;Country White Bread, Organic 1% Lowfat Milk;2
+67;6610;Organic Large Brown Grade AA Cage Free Eggs;1
+68;6878;Premium Grapefruit Large, Homogenized Milk, Strawberries, Blackberries;4
+69;7113;Deli Fresh Shaved Smoked Turkey Breast;1
+70;7280;Sliced Sourdough Bread;1
+71;7312;Organic Fat Free Milk;1
+72;7464;Organic Reduced Fat Milk;1
+73;7484;Organic Low Fat Milk, Cinnamon Toast Crunch, Bag of Organic Bananas;3
+74;7663;Organic Grape Tomatoes, Flour Tortillas, Banana;3
+75;7707;Smoked Turkey Breast;1
+76;7811;Uncured Genoa Salami;1
+77;7879;Almond Milk Hazelnut Creamer;1
+78;7897;Unsweetened Almondmilk;1
+79;7921;Organic Ginger Root;1
+80;7946;Organic Kale Greens;1
+81;7968;Grape White/Green Seedless, Organic Frosted Flakes Cereal, Large Lemon;3
+82;8477;Cream Top Smooth & Creamy Maple Yogurt;1
+83;8495;Organic Spring Mix, Organic Strawberries, Organic Strawberries;3
+84;8556;Organic Red Onion;1
+85;8690;Salt & Pepper Pistachios, Salt & Pepper Pistachios, Salt & Pepper Pistachios, Salt & Pepper Pistachios, Salt & Pepper Pistachios, Salt & Pepper Pistachios, Salt & Pepper Pistachios;7
+86;8713;Vitamin D Whole Milk;1
+87;8840;Sourdough Baguette, Organic Hass Avocado;2
+88;8962;Bag of Red Delicious Apples;1
+89;9000;Organic Baby Spinach;1
+90;9015;Family Size Naturally Flavored Whole Grain Oats Cereal;1
+91;9054;Organic Large Grade AA Brown Eggs;1
+92;9092;Organic 2% Reduced Fat Milk;1
+93;9358;Banana;1
+94;9397;Frosted Mini-Wheats Original Cereal;1
+95;9428;Vitamin C Super Orange Dietary Supplement, Limes, Honeycrisp Apple;3
+96;9538;Red Seedless Grapes;1
+97;9598;Sourdough Deli Bread, Cage Free Brown Eggs-Large, Grade A, Snow Peas, Sourdough Deli Bread, Sourdough Deli Bread;6
+98;9650;Strawberries, Sliced White Mushrooms, Organic Blueberries, Cage Free Grade A Large Brown Eggs, Dairy Free Unsweetened Coconut Milk;5
+99;9747;Vitamin D Organic Milk, Vitamin D Organic Milk;2
+100;9799;Deli Select Ultra Thin Honey Ham;1
+101;10189;Bag of Organic Bananas;1
+102;10231;Bag of Organic Bananas;1
+103;10382;Large Grade AA Organic Eggs, Large Grade AA Organic Eggs;2
+104;10411;Yellow Onions, Banana;2
+105;10472;Organic Roasted Turkey Breast;1
+106;10616;Jalapeno Peppers, Kiwi, Reduced Fat Milk 100% Lactose Free, Kiwi, Organic Strawberries, Kiwi;6
+107;10667;Organic Raspberries;1
+108;10775;Grade A Organic Large Brown Eggs, Organic 21 Grain Thin Sliced Bread, Organic 21 Grain Thin Sliced Bread, Organic 21 Grain Thin Sliced Bread, Soy Free Buttery Spread with Olive Oil;5
+109;10793;Bunny-Luv Organic Carrots;1
+110;10995;Flip??? Low-Fat Key Lime Crumble Greek Yogurt, Flip??? Low-Fat Key Lime Crumble Greek Yogurt, Avocado;3
+111;11139;Organic Gala Apples, Tart Cherry Yoghurt;2
+112;11271;Uncured Genoa Salami;1
+113;11438;Organic Zucchini;1
+114;11463;Almond Milk Peach Yogurt;1
+115;11496;Bag of Organic Bananas, Cherrios Honey Nut, Organic Baby Spinach, Cereal, with Crispy Almonds Cereal;5
+116;11615;Smoked Turkey Breast, Rotisserie Deli Shave Chicken Breast;2
+117;11636;Globe Eggplant;1
+118;11687;Gluten Free 7 Grain Bread;1
+119;11818;Bag of Organic Bananas;1
+120;11885;Fresh Cauliflower;1
+121;11996;Organic Green Leaf Lettuce;1
+122;12161;Seven Grain Crispy Tenders;1
+123;12179;Organic Raspberries;1
+124;12392;Cage Free Large White Eggs;1
+125;12477;Organic Strawberries;1
+126;12499;Banana, Banana, Banana, Banana;4
+127;12622;Bag of Organic Bananas;1
+128;12765;Peach;1
+129;12892;Organic Blackberries;1
+130;12982;Seedless Red Grapes;1
+131;13251;2% Reduced Fat Milk;1
+132;13352;Organic Spring Mix, Organic Broccoli, Organic Baby Spinach;3
+133;13718;Organic Lactose Free Whole Milk;1
+134;13798;100% Lactose Free Fat Free Milk;1
+135;13832;Organic Lacinato (Dinosaur) Kale;1
+136;13975;Organic Baby Spinach;1
+137;14016;Italian Dry Salame;1
+138;14054;Orange Bell Pepper;1
+139;14098;Yukon Gold Potatoes 5lb Bag;1
+140;14134;Whole Milk;1
+141;14213;Small Hass Avocado, Red Peppers;2
+142;14237;Bag of Organic Bananas;1
+143;14714;Plain Whole Milk Yogurt, Banana, Crispix Rice & Corn Cereal;3
+144;14878;Mini Peeled Carrots;1
+145;14955;Organic Lemon;1
+146;15015;Organic Good Seed Bread;1
+147;15021;Organic Multigrain Bread;1
+148;15025;2% Reduced Fat DHA Omega-3 Reduced Fat Milk;1
+149;15049;Organic Reduced Fat Milk, Uncured Slow Cooked Ham, Uncured Slow Cooked Ham, Organic Whole Milk, Organic Reduced Fat Milk, Organic Reduced Fat Milk, Organic Reduced Fat Milk;7
+150;15089;Red Plum;1
+151;15107;Organic Hass Avocado;1
+152;15363;Yogurt Tubes Blueberry;1
+153;15416;Milk, Organic, Vitamin D;3
+154;15429;Original Pepperoni, Original Pepperoni;2
+155;15610;Beast Burger;1
+156;15671;Organic Baby Carrots, Shelled Pistachios;2
+157;15763;Organic Milk;1
+158;15941;Cinnamon Toast Crunch;1
+159;16064;2% Reduced Fat DHA Omega-3 Reduced Fat Milk;1
+160;16092;Bag of Organic Bananas;1
+161;16147;Gluten Free 7 Grain Bread;1
+162;16186;Organic Blueberries;1
+163;16342;Dairy Free Coconut Milk Vanilla Yogurt Alternative;1
+164;16363;Organic Grade A Free Range Large Brown Eggs;1
+165;16574;Watercress, Bunch;2
+166;16706;Sparkling Tangerine Probiotic Drink;1
+167;16789;Non Fat Black Cherry on the Bottom Greek Yogurt;1
+168;16979;Organic Unsweetened Almond Milk;1
+169;17048;Vitamin D Whole Milk;1
+170;17071;YoBaby Blueberry Apple Yogurt, Cage Free Brown Eggs-Large, Grade A, YoBaby Blueberry Apple Yogurt, Banana, Vanilla Light & Fit Greek Yogurt;6
+171;17098;Zucchini Squash, Green Beans;2
+172;17165;Organic Reduced Fat 2% Milk;1
+173;17217;Plain Cultured Goat Milk Kefir;1
+174;17323;Bag of Organic Bananas;1
+175;17456;Organic Large Extra Fancy Fuji Apple, Banana;2
+176;17509;Organic Milk Reduced Fat, 2% Milkfat, Organic Gala Apples;3
+177;17575;Seedless Small Watermelon;1
+178;17610;Uncured Pepperoni;1
+179;17861;Organic Unsweetened Almond Milk, Organic Unsweetened Almond Milk, Organic Unsweetened Almond Milk, Organic Good Seed Bread, Organic Unsweetened Almond Milk;5
+180;17910;Total 0% Peach Yogurt;1
+181;18008;Organic Vidalia Onion;1
+182;18103;Organic Cooked Beets;1
+183;18135;Unsweetened Original Almond Breeze Almond Milk;1
+184;18345;Danimals Strawberry Explosion Flavored Smoothie, Uncured Slow Cooked Ham;2
+185;18413;Small Hass Avocado;1
+186;18506;Whole Milk With Vitamin D, Whole Milk With Vitamin D, Whole Milk With Vitamin D;3
+187;18595;Sweet Potato Yam;1
+188;18720;Organic Gala Apples, Organic Red Delicious Apple, Organic Peeled Whole Baby Carrots, Unsweetened Almond Milk;4
+189;18818;Organic Reduced Fat 2% Milk, Organic Hass Avocado, Organic Lemon;3
+190;18844;Bag of Organic Bananas, Apples, Prosciutto Di Parma, Apples, Reduced Fat 2% Milk, Meyer Lemons;6
+191;18903;Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale;3
+192;19179;Prosciutto Di Parma, Golden Pineapple;2
+193;19393;Bag of Organic Bananas;1
+194;19412;3 Color Deli Coleslaw, 50/50 Mix Spring Mix and Baby Spinach Salad Blend, Cage Free Brown Eggs-Large, Grade A, Large Grade AA Eggs;5
+195;19416;Caesar Supreme Salad Kit, Caesar Supreme Salad Kit, Organic 2% Reduced Fat Milk;3
+196;19629;Original Pepperoni;1
+197;19649;Organic Baby Spinach, Blackberries, Extra Fancy Unsalted Mixed Nuts;3
+198;19743;Organic Grade A Free Range Large Brown Eggs;1
+199;19854;Seedless Red Grapes;1
+200;19857;Organic Roma Tomato;1
+201;19865;Chopped Walnuts;1
+202;19887;Sausage  Links;1
+203;19890;Frozen Organic Blueberries, Organic Unsweetened Almond Milk;2
+204;20058;Banana;1
+205;20311;Lemon Yogurt;1
+206;20502;Cut & Peeled Baby Carrots;1
+207;20560;Organic Gala Apples;1
+208;20929;Bag of Organic Bananas;1
+209;20992;Original Multigrain Spoonfuls Cereal;1
+210;21460;Total 0% Nonfat Greek Yogurt;1
+211;21727;Small Hass Avocado;1
+212;21943;Sensible Foods Kale Veggie Burgers - 4 CT;1
+213;22038;Organic Spaghetti Squash;1
+214;22163;Fresh Cauliflower;1
+215;22283;Organic Coconut Milk;1
+216;22590;Organic Vanilla Almond Milk;1
+217;22855;Michigan Organic Kale;1
+218;22926;Bag of Organic Bananas;1
+219;22971;Organic Baby Spinach, Organic Baby Spinach, Organic Baby Spinach, Organic Baby Spinach, Organic Baby Spinach, Organic Baby Spinach;6
+220;23024;Bag of Organic Bananas, Bag of Organic Bananas;2
+221;23064;Organic Peeled & Cooked Beets;1
+222;23169;Organic Hass Avocado, Supergreens!, Organic Hass Avocado, Supergreens!, Organic Hass Avocado, Supergreens!, Organic Hass Avocado, Supergreens!, Organic Hass Avocado, Supergreens!;10
+223;23257;Dairy Free Unsweetened Coconut Milk;1
+224;23276;Soft & Smooth Whole Grain White Bread, Reduced Fat 2% Milk;2
+225;23455;Pomegranate, Organic Lactose Free 1% Lowfat Milk;2
+226;23516;Olive Bread, Prosciutto Di Parma, Extra Fancy Unsalted Mixed Nuts, Organic Raspberries, Extra Fancy Unsalted Mixed Nuts;5
+227;23558;Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk;4
+228;23917;Organic Lemon, Organic Large Extra Fancy Fuji Apple;2
+229;23921;Organic Blackberries, Organic Blackberries, Organic Blackberries, Organic Blackberries, Organic Iceberg Lettuce;5
+230;23973;Organic Peeled & Cooked Beets;1
+231;24010;Organic Bread with 21 Whole Grains;1
+232;24297;California Sourdough Bread, Organic Bagged Kale Salad Mix;2
+233;24455;Rosemary Ham, Uncured Slow Cooked Ham;2
+234;24529;Organic Ginger Root;1
+235;24555;Uncured Genoa Salami, Organic Large Extra Fancy Fuji Apple, Bag of Organic Bananas;3
+236;24677;Pink Lady (Cripps) Apple;1
+237;24845;Organic Raspberries;1
+238;24915;Organic Large Grade A Brown Eggs;1
+239;24927;Grassmilk 2% Reduced Fat Milk;1
+240;25239;Bag of Organic Bananas, Organic Cucumber, Organic Lemon;3
+241;25378;Organic Large Extra Fancy Fuji Apple;1
+242;25438;Original Craisins, Sliced White Mushrooms, Organic Fat-Free Milk;3
+243;25556;Bag of Organic Bananas;1
+244;25587;Sliced White Mushrooms;1
+245;25786;Seven Grain Crispy Tenders, Reduced Fat Milk 100% Lactose Free, Reduced Fat 2% Lactose-Free Milk, Sausage  Links;4
+246;25787;Apple Cinnamon Cheerios Cereal, Bag of Organic Bananas;2
+247;25885;Organic Fuji Apple;1
+248;25936;Organic Romaine Lettuce;1
+249;25995;Lowfat Milk;1
+250;26002;Frozen Organic Strawberries;1
+251;26007;Organic Green Beans, Sinfully Sweet Campari Tomatoes, Sinfully Sweet Campari Tomatoes;3
+252;26209;Organic Red Radish, Bunch;2
+253;26262;Organic Green Seedless Grapes;1
+254;26502;Organic YoKids Smoothie Strawberry Banana Lowfat Yogurt;1
+255;26522;Banana, Organic 1% Low Fat Milk, Organic 1% Low Fat Milk;3
+256;26659;Vanilla Soy Milk, Classic White Bread, Red Vine Tomato, Banana;4
+257;26931;Activia Vanilla Low Fat Yogurt;1
+258;27089;Red Peppers;1
+259;27315;Whole Milk, Whole Milk;2
+260;27690;2% Reduced Fat Milk;1
+261;27734;Banana, Banana;2
+262;27751;Reduced Fat 2% Milk, Bunny-Luv Organic Carrots;2
+263;27788;Organic Strawberries;1
+264;27799;Organic Zucchini;1
+265;27825;0% Greek Strained Yogurt, 0% Greek Strained Yogurt, 0% Greek Strained Yogurt;3
+266;27891;Total 0% Greek Yogurt, Organic Plain Whole Milk Yogurt;2
+267;28178;Cherubs Heavenly Salad Tomatoes;1
+268;28183;Organic Banana;1
+269;28342;Red Seedless Grapes;1
+270;28527;Apple Honeycrisp Organic;1
+271;28786;100% Whole Wheat Bread;1
+272;29215;Apple Honeycrisp Organic, Zucchini Noodles;2
+273;29300;Organic Whole White Mushrooms;1
+274;29361;Total 0% Greek Yogurt;1
+275;29378;Extra Fancy Unsalted Mixed Nuts, Bag of Organic Bananas;2
+276;29401;Total 0% Greek Yogurt, Total 0% Nonfat Greek Yogurt, Total 0% Greek Yogurt, Total 0% Greek Yogurt, Total 0% Nonfat Greek Yogurt, Total 0% Greek Yogurt;6
+277;29525;Okra, Bag of Organic Bananas, Sour Batard;3
+278;29555;Organic Orange Bell Pepper;1
+279;29596;Organic Love Crunch Granola Dark Chocolate & Red Berries, Lowfat Milk, Strawberry Rhubarb Yoghurt, Small Hass Avocado;4
+280;29801;Banana;1
+281;29819;Cage Free Brown Eggs-Large, Grade A;2
+282;29829;Bag of Organic Bananas;1
+283;29974;Quaker Life Cinnamon Cereal, Quaker Life Cinnamon Cereal, Organic 2% Reduced Fat Milk, Dairy Pure Whole Milk, Organic 2% Reduced Fat Milk, 2% Reduced Fat Milk;6
+284;30108;Organic Avocado, Organic Avocado, Organic Avocado, Organic Avocado, Organic Hass Avocado, Organic Avocado;6
+285;30127;Fresh Mozzarella Ball;1
+286;30141;Organic Greek Whole Milk Blended Strawberry Yogurt, Organic Greek Whole Milk Blended Strawberry Yogurt, Organic Greek Whole Milk Blended Strawberry Yogurt, Organic Greek Whole Milk Blended Strawberry Yogurt;4
+287;30213;Asparagus Spears;1
+288;30299;Fresh Cauliflower;1
+289;30313;Organic Small Bunch Celery;1
+290;30356;Icelandic Style Skyr Blueberry Non-fat Yogurt;1
+291;30427;Organic Fuji Apple;1
+292;30530;Vine Ripe Tomatoes;1
+293;30678;Fat Free Strawberry Yogurt, Dried Sweetened Cranberries;2
+294;30872;Organic Russet Potato;1
+295;31049;Organic Raspberries, Whole Organic Omega 3 Milk, Organic Raspberries;3
+296;31226;Bag of Organic Bananas;1
+297;31368;Organic Honey'd Corn Flakes Cereal Gluten Free, Organic Honey'd Corn Flakes Cereal Gluten Free, Organic Honey'd Corn Flakes Cereal Gluten Free, Organic Honey'd Corn Flakes Cereal Gluten Free;4
+298;31448;Banana;1
+299;31470;Organic Red Radish, Bunch;2
+300;31476;Organic Peeled & Cooked Beets, Organic Tomato Cluster, Half Dozen Grade A White Eggs Large;3
+301;31579;Greek 100 Protein Vanilla Fat Free Yogurt, Honey Nut Cheerios, Greek 100 Protein Vanilla Fat Free Yogurt, Deli Fresh Shaved Smoked Turkey Breast, Organic Navel Orange, Organic Navel Orange;6
+302;31635;Unsweetened Vanilla Almond Breeze;1
+303;31679;Organic Green Cabbage;1
+304;31719;Super Greens Salad;1
+305;31753;Milk Whole, Red Vine Tomato, Large Grade AA Eggs;3
+306;31822;Grade AA Large White Eggs;1
+307;32197;Total 0% Nonfat Plain Greek Yogurt;1
+308;32495;Organic Reduced Fat 2% Milk, Shredded Red Cabbage, Sliced Prosciutto;3
+309;32702;Tomato Yellow Cherry;1
+310;32763;Unsweetened Almondmilk;1
+311;32833;Watercress, Bunch, Watercress, Bunch, Watercress, Bunch, Bing Cherries;7
+312;32942;Organic Raspberries;1
+313;32955;Organic YoKids Very Berry Smoothies;1
+314;33012;Organic Strawberries;1
+315;33077;Organic Snipped Green Beans;1
+316;33208;Nectarines, Limes, Banana, Whole Grain Oat Cereal, Organic Fuji Apple;5
+317;33393;Strawberries, Red Onion;2
+318;33459;Cage Free Brown Eggs-Large, Grade A;2
+319;33533;Organic Baby Spinach;1
+320;33565;Solid White Albacore Tuna In Spring Water, Organic Tomato Cluster;2
+321;33648;Large Lemon;1
+322;33659;Strawberries, Strawberries;2
+323;33662;Broccoli Crown, Broccoli Crown;2
+324;33708;Banana, Organic Baby Spinach, Almond Milk Strawberry Yogurt;3
+325;33914;Organic Hummus;1
+326;33930;Bag of Organic Bananas, 0% Greek Strained Yogurt;2
+327;33982;Marcona Almonds;1
+328;34081;Honey Nut Cheerios, Honey Nut Cheerios;2
+329;34189;Small Hass Avocado;1
+330;34282;Dairy Pure 2% Milkfat Reduced Fat Milk;1
+331;34286;Organic Snipped Green Beans, Organic Gala Apples;2
+332;34297;Large Alfresco Eggs, Gluten Free 7 Grain Bread;2
+333;34381;Prosciutto Di Parma, Prosciutto Di Parma, Romaine Hearts, Cinnamon Toast Crunch;4
+334;34385;Sliced Soppressata Salame;1
+335;34529;California Veggie Burgers - 4 CT;1
+336;34617;Organic Strawberries, Ezekiel 4:9 Bread Organic Sprouted Whole Grain, Organic Freeze Dried Strawberries;3
+337;34624;Organic Fuji Apples;1
+338;34688;Organic Raisin Bran Cereal;1
+339;34837;Grapes Green Seedless;1
+340;35035;Artisan Sausage Pineapple Uncured Bacon Hardwood Smoked with Vermont Maple Syrup;1
+341;35052;XL Emerald White Seedless Grapes;1
+342;35117;Yellow Bell Pepper;1
+343;35223;Pluot, Golden Pineapple, Sugar Snap Peas, Sugar Snap Peas, Sugar Snap Peas, Sugar Snap Peas;6
+344;35311;Organic Green Butter Lettuce, Serrano Chile Peppers, Vitamin D Organic Milk, Unsweetened Vanilla Almond Milk, Liquid Egg Whites;5
+345;35651;Organic 1% Low Fat Milk, Organic 1% Low Fat Milk, Low Fat 1% Milk, Toasted Coconut Chips Original Recipe, Bag of Organic Bananas;5
+346;35698;Organic Cripps Pink Apples;1
+347;35772;Organic Reduced Fat 2% Milk;1
+348;35991;Fresh CA Grown Eggs, Garnet Sweet Potato (Yam);2
+349;36064;Honeycrisp Apple, Honeycrisp Apple, Organic Large Grade AA Brown Eggs, Beef Skirt Steak;4
+350;36331;Lafayette Butter Lettuce & Radicchio Salad Blend;1
+351;36584;Organic Lowfat Plain Unsweetened Kefir;1
+352;36644;Grade A Extra Large Eggs;1
+353;36645;Raisin Bran Cereal, Goat Milk;2
+354;36701;Organic Strawberries;1
+355;37023;Whole Vitamin D Milk, 2% Chocolate Milk;2
+356;37085;Red Leaf Lettuce;1
+357;37199;Large Greenhouse Tomato, Bolthouse Baby Carrots, Corn Flakes;3
+358;37284;0% Greek Strained Yogurt, Dry Roasted Almonds, 0% Greek Strained Yogurt, 0% Greek Strained Yogurt, 0% Greek Strained Yogurt;5
+359;37294;Milk, Vitamin D, Organic Whole Milk, Yellow Nectarines, California Sourdough Bread, Gluten Free 7 Grain Bread;6
+360;37300;Vanilla Unsweetened Almond Milk, Organic Seedless Watermelon, Strawberries;3
+361;37580;Jalapeno Peppers;1
+362;37608;Organic  Whole Milk, Celery Hearts;2
+363;37611;Organic Whole Milk;1
+364;37720;Organic Baby Spinach, Organic Baby Spinach, Organic Baby Spinach, Organic Blueberries, Organic Blueberries;5
+365;37960;Bag of Organic Bananas;1
+366;38098;Pomegranate Seeds;1
+367;38311;Organic Large Grade A Brown Eggs;1
+368;38401;Chocolate Lowfat Milk;1
+369;38620;Organic Reduced Fat Milk, Organic Baby Spinach;2
+370;38688;Organic Pasture Raised Brown Eggs;1
+371;38698;Honey Wheat Enriched Bread, Organic Whole Milk with DHA Omega-3;2
+372;38824;Microwave in Bag Green Beans;1
+373;38846;Seedless Red Grapes;1
+374;39326;Gluten Free 7 Grain Bread;1
+375;39416;Organic Fat Free Milk;1
+376;39491;Natural Choice Deli Oven Roasted Turkey;1
+377;39536;Organic Low Fat Milk, Organic Low Fat Milk, Organic Low Fat Milk;3
+378;39658;Organic White Bread Done Right;1
+379;39877;Organic Vanilla Whole Milk Yogurt;1
+380;40096;Honey Nut Cheerios;1
+381;40295;Fat Free Milk;1
+382;40497;Banana;1
+383;40526;Organic Uncured Sliced Black Forest Ham;1
+384;40947;Apple Honeycrisp Organic;1
+385;40960;Organic Baby Spinach;1
+386;40965;Russet Potatoes;1
+387;40996;Strawberries;1
+388;41136;Michigan Organic Kale, Michigan Organic Kale, Lactose Free Blueberry Pomegranate Acai Kefir;3
+389;41355;Broccoli Pot Pie With Cheddar Cheese Sauce;1
+390;41515;Gala Apples;1
+391;41722;Bag of Organic Bananas, Meyer Lemons, Organic Turkey Breast, Organic Turkey Breast, Organic Turkey Breast;5
+392;41823;Milk, Organic, Vitamin D;3
+393;41885;Peaches Large;1
+394;41886;Russet Potatoes;1
+395;42068;Vanilla Light & Fit Nonfat Yogurt;1
+396;42138;Organic Whole O's Gluten Free Cereal;1
+397;42150;Country White Bread, Country White Bread;2
+398;42175;Small Hass Avocado;1
+399;42177;Fat Free Milk;1
+400;42458;Bag of Organic Bananas;1
+401;42500;Unsweetened Vanilla Almond Milk;1
+402;42549;Clementines, Bag, Unsweetened Almondmilk, Unsweetened Almondmilk;4
+403;42562;Clementines, Bag;2
+404;42829;California Veggie Burgers - 4 CT;1
+405;42848;Strawberries, Mini Watermelon, Red Bell Pepper, Red Bell Pepper, Medium Scarlet Raspberries;5
+406;42966;Organic Grade A Large Brown Eggs;1
+407;43030;Vanilla Almond Breeze Almond Milk;1
+408;43080;Vitamin D Organic Whole Milk;1
+409;43140;Banana, Banana, Banana;3
+410;43214;Organic Baby Carrots;1
+411;43311;Organic Avocado, Original Enriched Rice Drink;2
+412;43429;Organic Hass Avocado;1
+413;43856;Organic Whole Milk, Organic Romaine Lettuce, Organic Strawberries;3
+414;43929;Red Seedless Grapes;1
+415;44454;Organic Whole Milk, Red Seedless Grapes, Red Seedless Grapes;3
+416;44487;Michigan Organic Kale, Broccoli Crown, Organic Zucchini;3
+417;44568;Organic Blackberries;1
+418;45114;Lactose Free Fat Free Milk;1
+419;45217;Spinach;1
+420;45343;Organic Yams;1
+421;45349;Yellow Onions;1
+422;45425;Sweet Baguette;1
+423;45491;Organic Strawberries;1
+424;45801;Organic Hass Avocado, Organic Hass Avocado, Organic Hass Avocado, Organic Hass Avocado, Organic Hass Avocado, Organic Hass Avocado;6
+425;45858;Bag of Organic Bananas;1
+426;46089;Hearts Of Romaine, Hearts Of Romaine, Hearts Of Romaine;3
+427;46124;Kiwi, Golden Pineapple, Kiwi, Kiwi, Brussels Sprouts;5
+428;46256;Uncured Slow Cooked Ham, Uncured Slow Cooked Ham;2
+429;46263;Organic Celery Hearts, Celery Hearts, Organic Celery Hearts;3
+430;46372;Reduced Fat Milk 100% Lactose Free;1
+431;46382;Organic Fat Free Milk, Organic Snipped Green Beans;2
+432;46639;Michigan Organic Kale, Organic D'Anjou Pears;2
+433;46930;Organic Avocado;1
+434;47011;Ciabatta, Limes, Peanut Butter Cereal;3
+435;47049;Total 0% Greek Yogurt, Red Onion, Bolthouse Baby Carrots;3
+436;47204;Vanilla Almond Breeze Almond Milk, Organic Sweet Onion, Organic Baby Carrots;3
+437;47433;12 Grain Bread;1
+438;47702;Russet Potato;1
+439;47755;Large Grapefruit, Honey Wheat Bread;2
+440;47827;Honeycrisp Apple;1
+441;47901;Whole Milk, Whole Wheat Pita Bread, Organic Raspberries;3
+442;48281;Organic Reduced Fat Milk;1
+443;48338;Dairy Free Original Coconutmilk Coffee Creamer;1
+444;48346;Hass Avocado, Organic Yams, Cherubs Heavenly Salad Tomatoes;3
+445;48397;Bag of Organic Bananas, Bag of Organic Bananas;2
+446;48475;Total 2% All Natural Greek Strained Yogurt with Honey;1
+447;48809;Blueberries Pint;1
+448;48978;2% Reduced Fat Milk, 2% Reduced Fat Milk, Leek, 2% Reduced Fat Milk;4
+449;49057;Organic Reduced Fat Milk, Organic Large Grade A Brown Eggs;2
+450;49153;2% Reduced Fat DHA Omega-3 Reduced Fat Milk;1
+451;49333;Organic Blackberries, Sweet Baguette;2
+452;49364;Romaine Hearts;1
+453;49386;Bag of Organic Bananas, Organic Baby Carrots;2
+454;49531;Southwest Chopped Salad Kit with Dressing;1
+455;49578;Bag of Organic Bananas;1
+456;49597;Gluten Free 7 Grain Bread, Organic Baby Spinach;2
+457;49614;Organic Avocado;1
+458;49658;Vanilla Almond Milk Yogurt;1
+459;49659;Fat Free Milk, Fat Free Milk, Skim Milk, Skim Milk;4
+460;49750;Organic 1% Milk, Unsweetened Almondmilk;2
+461;49758;Clementines, Bag;2
+462;49798;Non-Fat Blueberry on the Bottom Greek Yogurt, Non-Fat Blueberry on the Bottom Greek Yogurt;2
+463;49807;Broccoli Crown;1
+464;49883;Unsweetened Original Almond Breeze Almond Milk;1
+465;49986;Sliced White Mushrooms;1
+466;50034;Original Strawberry Banana Yogurt;1
+467;50133;Danimals Strawberry Explosion Flavored Smoothie;1
+468;50144;Banana, Banana;2
+469;50361;Organic Bread with 21 Whole Grains;1
+470;50403;Organic Baby Spinach;1
+471;50542;Bag of Organic Bananas;1
+472;50567;Roasted & Salted Pistachios;1
+473;50736;Russet Potato;1
+474;50892;Original Whole Fat Lactose Free Milk;1
+475;50987;Russet Potato, Organic Whole Milk;2
+476;51002;Fat Free Skim Milk;1
+477;51049;Organic Traditional Plain Kefir, Sliced Prosciutto;2
+478;51093;Organic Gala Apples;1
+479;51156;Nonfat Probiotic Drinks, Sourdough Deli Bread, 2% Reduced Fat Milk;3
+480;51249;Organic Romaine;1
+481;51376;Organic Whipped Naturally Buttery Spread;1
+482;51485;Cream Top Smooth & Creamy Vanilla Yogurt;1
+483;51488;Banana;1
+484;51663;Icelandic Style Fat Free Plain Yogurt;1
+485;51832;Organic Zucchini;1
+486;51905;Raspberry on the Bottom Nonfat Greek Yogurt;1
+487;51926;Organic Large Extra Fancy Fuji Apple, Honey Nut Cheerios;2
+488;51942;Yogurt, Lowfat, Strawberry;3
+489;51955;Small Hass Avocado;1
+490;52257;100% Liquid Egg Whites, All Whites 100% Egg Whites, 100% Liquid Egg Whites, 100% Liquid Egg Whites, 100% Liquid Egg Whites, 100% Liquid Egg Whites, 100% Liquid Egg Whites;7
+491;52285;Organic Skim Milk with DHA Omega-3;1
+492;52292;Low-Fat Mango on the Bottom Greek Yogurt;1
+493;52311;Organic Baby Spinach;1
+494;52558;Large Lemon;1
+495;52562;Whole Milk Plain Yogurt;1
+496;52851;Banana;1
+497;52862;Dairy Free Unsweetened Coconut Milk;1
+498;52874;Bag of Organic Bananas;1
+499;53016;Goat Milk, Goat Milk, Boniato Sweet Potato;3
+500;53092;Milk Whole, Milk Whole, Sliced Sourdough Bread;3
+501;53153;Organic Baby Spinach Salad;1
+502;53205;Organic Zucchini, Organic Zucchini, Red Plum;3
+503;53254;Organic Spring Mix, Organic Baby Spinach;2
+504;53295;Baby Spinach Salad;1
+505;53306;Organic Bunch Beets;1
+506;53431;Total 2% All Natural Plain Greek Yogurt;1
+507;53483;Organic Romaine Lettuce, Organic Romaine Lettuce;2
+508;53531;Organic Nonfat Milk, Organic Nonfat Milk, Organic Nonfat Milk, 2% Reduced Fat Milk;4
+509;53568;Peaches Large, Banana, Banana;3
+510;53602;Organic Grape Tomatoes, Organic Italian Salad, Butterhead Lettuce;3
+511;53854;Beyond Beef Fiesty Crumble, Organic Large Brown Grade AA Cage Free Eggs, Organic Russet Potato;3
+512;53891;Organic Hass Avocado;1
+513;53904;Toasted Coconut Chips Original Recipe, Toasted Coconut Chips Original Recipe, Avocado, Red Bell Pepper, Honey Nut Cheerios;5
+514;54025;Organic Grade A Free Range Large Brown Eggs;1
+515;54127;Organic 2% Milk, Organic 2% Milk, Organic 2% Milk;3
+516;54398;Organic Avocado, Caesar Salad Kit;2
+517;54725;7 Sprouted Grains Bread;1
+518;54996;Banana, Banana, 2% Chocolate Milk, Ultra-Filtered Whole Milk, Ultra-Filtered Whole Milk, Ultra-Filtered Whole Milk, Ultra-Filtered Whole Milk, Ultra-Filtered Whole Milk;8
+519;55099;Organic Red Bartlett Pear, Boneless & Skinless Wild Alaskan Sockeye Salmon, Green Plantains, Dairy Free Coconut Milk Blueberry Yogurt Alternative;4
+520;55253;Vitamin D Organic Whole Milk, Vitamin D Organic Whole Milk, Vitamin D Organic Whole Milk, Vitamin D Organic Whole Milk, Vitamin D Organic Whole Milk;5
+521;55315;Garnet Sweet Potato (Yam);1
+522;55403;Fresh Cauliflower;1
+523;55496;Organic Zucchini, Organic Blueberries, Organic Baby Spinach;3
+524;55652;Bag of Organic Bananas;1
+525;55674;Bag of Organic Bananas;1
+526;55791;Mediterranee Strawberry Yogurt, Mediterranee Strawberry Yogurt;2
+527;55811;Iceberg Lettuce;1
+528;55891;Green Onions;1
+529;55909;Uncured Pepperoni;1
+530;56018;Organic Baby Spinach, Organic Baby Spinach, Organic Blueberries;3
+531;56071;Marcona Almonds;1
+532;56085;Caesar Supreme Salad Kit, Caesar Supreme Salad Kit, Caesar Supreme Salad Kit;3
+533;56104;Organic Whole Milk;1
+534;56345;Icelandic Style Skyr Blueberry Non-fat Yogurt;1
+535;56421;Organic YoKids Smoothie Strawberry Banana Lowfat Yogurt;1
+536;56544;Dha Omega 3 Vitamin D Milk;1
+537;56649;Seedless Small Watermelon;1
+538;56694;2% Lactose Free Milk, Sweet Baguette, 2% Lactose Free Milk, 2% Lactose Free Milk, 2% Lactose Free Milk, 2% Lactose Free Milk, 2% Lactose Free Milk;7
+539;56901;Cage Free  100% Liquid Egg Whites;1
+540;57032;Strawberries, Strawberries, Banana;3
+541;57088;ALMONDBREEZE UNSWEETENED, Uncured Genoa Salami, Bag of Organic Bananas;3
+542;57328;Organic Bagged Carrots;1
+543;57836;YoKids Blueberry & Strawberry/Vanilla Yogurt;1
+544;57916;Gluten Free Omega Flax & Fiber Bread;1
+545;58011;Organic Red Radish, Bunch;2
+546;58085;Banana, Organic Greek Plain Nonfat Yogurt, Banana, Banana;4
+547;58128;Yellow Onions;1
+548;58283;Sweet Sliced Bread, Oven Roasted Turkey Breast, Dried Mangoes, 2% Reduced Fat Milk, Oven Roasted Turkey Breast, Oven Roasted Turkey Breast;6
+549;58339;Organic Cherry Tomatoes, Romaine Hearts, Premium Italian Bread, Premium Italian Bread, Premium Italian Bread;5
+550;58522;Granny Smith Apples, Golden Delicious Apple, Organic Blackberries;3
+551;58539;Original Whole Fat Lactose Free Milk;1
+552;58648;Organic Raspberries, Organic Bunch Beets, Organic Roma Tomato;3
+553;58662;Tommy/Kent/Keitt/Haden Mango, Unsweetened Almondmilk;2
+554;58809;Deli Fresh Honey Ham, 97% Fat Free, Gluten Free;3
+555;58967;Organic Spring Mix, Organic Spring Mix;2
+556;59076;Organic Whole Milk;1
+557;59231;Organic Green Beans, Organic Good Seed Bread;2
+558;59439;Mandarin Oranges;1
+559;59547;Cold Brew Coffee Double Espresso with Almond Milk;1
+560;59581;Organic Whole Milk, Gluten Free White Sandwich Bread, Russet Potato, Organic Whipped Naturally Buttery Spread;4
+561;60034;Cherubs Tomatoes, Organic Baby Kale, Organic Baby Kale;3
+562;60409;Organic Strawberries, Organic Strawberries, Honey Bunches of Oats Roasted Oats, Honey Bunches of Oats Roasted Oats;4
+563;60467;EnviroKidz Gluten Free & Wheat Free Gorilla Munch Corn Puff Cereal;1
+564;60755;Organic Lowfat 1% Milk;1
+565;60760;Organic Lacinato (Dinosaur) Kale;1
+566;60827;0% Fat Organic Greek Vanilla Yogurt;1
+567;60842;Uncured Black Forest Ham, Roasted Turkey Breast, Roasted Turkey Breast, 100% Whole Wheat Bread, Roasted Turkey Breast, Roasted Turkey Breast, Roasted Turkey Breast;7
+568;60952;Organic Large Extra Fancy Fuji Apple, Organic Large Extra Fancy Fuji Apple, Organic Large Extra Fancy Fuji Apple, Organic Large Extra Fancy Fuji Apple, Organic Large Extra Fancy Fuji Apple, Organic Large Extra Fancy Fuji Apple;6
+569;60965;Whole Wheat Bread;1
+570;60975;Spinach, Banana, Frosted Mini-Wheats Original Cereal, Whole Milk;4
+571;61237;Organic Baby Arugula;1
+572;61270;Organic Fuji Apple, Irish Aged Cheddar Cheese;2
+573;61385;Total 2% Lowfat Greek Strained Yogurt with Peach;1
+574;61477;Organic Gala Apples;1
+575;61631;Seedless Red Grapes, Fuji Apples, Bag of Organic Bananas, Fuji Apples, Extra Fancy Unsalted Mixed Nuts, Organic 2% Milk;6
+576;61653;Cucumber Kirby;1
+577;61726;Organic Baby Spinach Salad;1
+578;61752;The Original Multi Grain Bread, The Original Multi Grain Bread, Strawberry on the Bottom Nonfat Greek Yogurt;3
+579;61994;Roma Tomato, Organic Thompson Seedless Raisins;2
+580;62063;Flour Tortillas Soft Taco;1
+581;62173;Cucumber Kirby;1
+582;62199;Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk;6
+583;62266;Bag of Organic Bananas;1
+584;62292;Grapefruit, Bag;2
+585;62480;Watermelon Chunks;1
+586;62706;Frosted Mini-Wheats Original Cereal, Vitamin D Whole Milk;2
+587;62760;Butternut Squash, Organic Blueberries, Organic Blueberries, Organic Blueberries, Organic Blueberries, Organic Blueberries;6
+588;62777;Organic Blueberries, Organic Blueberries, Frozen Organic Blueberries, Frozen Organic Blueberries;4
+589;63088;Bag of Organic Bananas;1
+590;63097;Uncured Slow Cooked Ham;1
+591;63465;Banana;1
+592;63561;Seedless Red Grapes;1
+593;63603;Organic Yellow Onion, Organic Gala Apples;2
+594;63689;Organic Romaine Hearts;1
+595;63766;Large Lemon;1
+596;63783;Almond Breeze Original Almond Milk;1
+597;64006;Ultra-Filtered Whole Milk, Ultra-Filtered Whole Milk, Hass Avocado Bag, Vanilla Unsweetened Almond Milk, Ultra-Filtered Whole Milk;5
+598;64068;Total 2% Greek Strained Yogurt with Cherry 5.3 oz, Non-Fat Greek Yogurt With Strawberries on the Bottom, Non-Fat Greek Yogurt With Strawberries on the Bottom;3
+599;64127;Chocolate Milk, Large Brown Eggs, Chocolate Milk, Large Brown Eggs, Large Brown Eggs;5
+600;64235;Organic Baby Arugula;1
+601;64406;Mini Peeled Carrots;1
+602;64423;Cantaloupe, Organic Green Onions;2
+603;64530;Jalapeno Pepper, Tommy/Kent/Keitt/Haden Mango;2
+604;64908;Organic Roasted Turkey Breast;1
+605;64930;Gluten Free Millet-Chia Bread;1
+606;64946;Green Tea With Ginseng and Honey;1
+607;64983;Grade A Organic Large Brown Eggs;1
+608;65340;Total 0% Raspberry Yogurt;1
+609;65573;Solid White Albacore Tuna In Water, Organic Blackberries;2
+610;65617;2% Reduced Fat Organic Milk;1
+611;65635;Organic Bosc Pear;1
+612;65864;Cultured Low Fat Buttermilk;1
+613;66015;Banana;1
+614;66042;USDA AA Extra Large Eggs;1
+615;66055;Comice Pear;1
+616;66210;Uncured Italian Dry Salami;1
+617;66364;Organic Lacinato (Dinosaur) Kale;1
+618;66392;Organic Broccoli;1
+619;66749;Strawberries, Strawberries, Strawberries;3
+620;66834;Banana;1
+621;66917;Vanilla Pure Almond Milk;1
+622;66925;Bag of Organic Bananas;1
+623;67229;Clementines, Bag;2
+624;67529;Strawberries, Strawberries;2
+625;67555;Organic D'Anjou Pears;1
+626;67922;Brown Extra Large Grade AA Eggs, 100% Whole Wheat Bread;2
+627;67959;100% Lactose Free Reduced Fat Calcium Enriched Milk;1
+628;67977;Fresh Cauliflower, 2% Reduced Fat Organic Milk;2
+629;68053;Super Soft Taco Flour Tortillas;1
+630;68056;Mediterranee Strawberry Yogurt;1
+631;68192;Cheerios Cereal;1
+632;68295;Stringless Sugar Snap Peas;1
+633;68344;Bag of Organic Bananas;1
+634;68353;Apple Honeycrisp Organic, Apple Honeycrisp Organic, Apple Honeycrisp Organic, Organic Raspberries;4
+635;68384;Fresh Ginger Root;1
+636;68454;Cherubs Heavenly Salad Tomatoes;1
+637;68640;Deli Select Ultra Thin Honey Ham, 2% Reduced Fat Milk, Super Soft Taco Flour Tortillas, 2% Reduced Fat Milk, Super Soft Taco Flour Tortillas, 2% Reduced Fat Milk, Large Burrito Flour Tortillas;7
+638;68723;Limes;1
+639;68963;Brussels Sprouts;1
+640;69001;Tommy/Kent/Keitt/Haden Mango;1
+641;69083;Belgian Endive;1
+642;69126;Goat Milk;1
+643;69478;Fat Free Milk, 100% Liquid Egg Whites;2
+644;69550;Dairy Free Coconut Milk Passionate Mango Yogurt Alternative;1
+645;69594;Unsweetened Vanilla Almond Milk;1
+646;69653;Organic Hass Avocado;1
+647;69716;Organic Cinnamon Harvest Cereal, Humboldt Fog;2
+648;69824;Organic Baby Spinach;1
+649;69945;Pumpkin Fig Ancient Grain Granola;1
+650;69991;Organic Reduced Fat 2% Milk, Dried Sweetened Cranberries, Organic Unsweetened Soy Milk Beverage;3
+651;70045;Tempt Unsweetened Original Hemp Milk;1
+652;70234;Fresh Mozzarella Ball, Broccoli Crown;2
+653;70240;50/50 Spring Mix & Baby Spinach;1
+654;70255;Yellow Onions, Bunny-Luv Fresh Organic Carrots;2
+655;70284;Organic Red On the Vine Tomato;1
+656;70323;Spinach;1
+657;70371;2% Reduced Fat Milk;1
+658;70506;Low-Fat Strawberry Banana on the Bottom Greek Yogurt;1
+659;70722;Cage Free Brown Eggs-Large, Grade A;2
+660;70777;Sliced Sourdough Bread, Organic Good Seed Bread;2
+661;71109;Large Grade AA Eggs, Jalapeno Peppers, Organic Lemon;3
+662;71196;Cinnamon Swirl Raisin Bread;1
+663;71230;Organic Bread with 21 Whole Grains;1
+664;71408;100% Whole Wheat Bread;1
+665;71437;Total 2% Greek Strained Yogurt with Cherry 5.3 oz;1
+666;71618;Yellow Onions;1
+667;71680;Bag of Organic Bananas;1
+668;72121;Unsweetened Almondmilk;1
+669;72300;Organic Garnet Sweet Potato (Yam);1
+670;72423;Sourdough Baguette;1
+671;72478;Roma Tomato, White Pita, Pickling Cucumber, Organic Roma Tomato, Cold Brew Coffee Double Espresso with Almond Milk;5
+672;72644;Spinach;1
+673;72683;Total 2% All Natural Plain Greek Yogurt;1
+674;72691;Organic Traditional Flour Tortillas;1
+675;72725;Kefir Cultured Milk Smoothie Plain, Kefir Cultured Milk Smoothie Plain, Kefir Cultured Milk Smoothie Plain;3
+676;72739;Limes, Organic Milk;2
+677;72746;Extra Fancy Unsalted Mixed Nuts;1
+678;72987;Total 0% with Honey Nonfat Greek Strained Yogurt;1
+679;73224;Organic Navel Orange, Organic Garnet Sweet Potato (Yam), Organic Promise Strawberry Fields Cereal;3
+680;73229;Organic Baby Spinach;1
+681;73246;Gluten Free Omega Flax & Fiber Bread, Almond Milk Ricotta;2
+682;73255;YoKids Strawberry Banana/Strawberry Yogurt, Organic Banana, Organic Banana, Organic Banana;4
+683;73265;Organic Cherries;1
+684;73269;Organic Strawberries, Organic Strawberries;2
+685;73387;Organic Lowfat Milk;1
+686;73526;Total Greek Strained Yogurt;1
+687;73564;Organic Avocado, Organic Large Brown Grade AA Cage Free Eggs, Cole Slaw;3
+688;73594;100% Lactose Free Fat Free Milk, 100% Lactose Free Fat Free Milk, Fresh Asparagus, Seedless Red Grapes;4
+689;73708;Organic Granny Smith Apple;1
+690;73925;Bag of Organic Bananas;1
+691;73937;Bag of Organic Bananas;1
+692;73979;Uncured Genoa Salami, Uncured Genoa Salami, Uncured Genoa Salami, Uncured Genoa Salami;4
+693;73996;Whole Chia Seeds;1
+694;74097;Original Pepperoni, Carrot Sticks, Carrot Sticks, Celery Sticks, Celery Sticks;5
+695;74414;2% Reduced Fat Milk;1
+696;74523;Low-Fat Strawberry Banana on the Bottom Greek Yogurt;1
+697;74550;Uncured Diced Pancetta;1
+698;74584;Organic Hass Avocado;1
+699;74858;Uncured Slow Cooked Ham;1
+700;74892;Radish, Grade A Large Brown Eggs;2
+701;75140;Jalapeno Peppers, Bag of Organic Bananas, Banana, Jalapeno Peppers;4
+702;75344;Total 2% Lowfat Plain Greek Yogurt;1
+703;75354;Tempt Unsweetened Vanilla Hemp Milk;1
+704;75498;Total 2% Greek Strained Yogurt with Cherry 5.3 oz;1
+705;75539;Bag of Organic Bananas;1
+706;75683;Organic Zucchini;1
+707;75888;Large Burrito Flour Tortillas, Large Burrito Flour Tortillas, White Corn Tortillas, Large Burrito Flour Tortillas, Grade A Large White Eggs;5
+708;76008;Organic Bunch Beets;1
+709;76089;Banana;1
+710;76127;100% Oatnut Bread;1
+711;76256;Mini Watermelon;1
+712;76266;Strawberries;1
+713;76300;Organic Whole Milk, Organic Whole Milk;2
+714;76454;Bag of Organic Bananas;1
+715;76475;Butterhead Lettuce, Bag of Organic Bananas, Bag of Organic Bananas, Bag of Organic Bananas;4
+716;76524;Organic YoKids Smoothie Strawberry Banana Lowfat Yogurt;1
+717;76550;Organic Large Extra Fancy Fuji Apple, Organic Thompson Seedless Raisins, Banana;3
+718;76573;Red Vine Tomato;1
+719;76743;Total 0% Nonfat Plain Greek Yogurt;1
+720;76948;Organic Avocado;1
+721;77188;Whole Milk, Whole Milk, Lemon Blended Non-Fat Greek Yogurt, Lemon Blended Non-Fat Greek Yogurt, Organic Bread with 21 Whole Grains;5
+722;77202;Corn Tortillas, Clementines, Bag, Strawberries;4
+723;77259;Apple Honeycrisp Organic;1
+724;77285;Organic Red Grapes;1
+725;77400;Organic Strawberries, Michigan Organic Kale;2
+726;77513;Smoked Gouda;1
+727;77537;Original Cherry Orchard Yogurt;1
+728;77566;Organic Sweet Pea;1
+729;77572;Butterhead Lettuce, Butterhead Lettuce, 2% Reduced Fat DHA Omega-3 Reduced Fat Milk;3
+730;77650;Oats & Honey Granola;1
+731;77651;Flip Chocolate Haze Craze Low-Fat Greek Yogurt;1
+732;77732;Dry Roasted Peanuts, Dry Roasted Peanuts, Dry Roasted Peanuts, Clementines, Bag, Dry Roasted Lightly Salted Peanuts, Dry Roasted Peanuts;7
+733;77935;Banana, Large Greenhouse Tomato, Butter Bread;3
+734;77995;Organic Milk Reduced Fat, 2% Milkfat, Lowfat Vanilla Yogurt;3
+735;78419;Organic Lemon, Sweet Baguette, Bananas, Organic Grape Tomatoes;4
+736;78461;Chocolate Lowfat Milk;1
+737;78612;Bag of Organic Bananas;1
+738;78626;Non Fat Raspberry Yogurt;1
+739;78668;Organic Roast Beef, Organic Whole Milk;2
+740;78671;Pears, Organic Fuji Apples;2
+741;78757;Organic Peeled Whole Baby Carrots, Organic Baby Carrots, Organic Peeled Whole Baby Carrots;3
+742;78953;Cherubs Heavenly Salad Tomatoes;1
+743;79020;Total 2% All Natural Plain Greek Yogurt;1
+744;79204;Organic Baby Spinach;1
+745;79248;Seedless Small Watermelon, Strawberries, Strawberries, Organic Raisins;4
+746;79797;Chopped Walnuts;1
+747;79814;Organic Lactose Free Whole Milk;1
+748;79922;Limes;1
+749;79954;Bag of Organic Bananas, Sliced Baby Bella Mushrooms, Sliced Baby Bella Mushrooms, Large Lemon;4
+750;80137;Crimini Delight Mushrooms, Fresh Ginger Root;2
+751;80202;Rice Krispies Cereal;1
+752;80301;Organic Reduced Fat 2% Milk, Organic Reduced Fat 2% Milk, Organic Reduced Fat 2% Milk;3
+753;80431;Low Fat 1% Milk;1
+754;80456;Mandarin Clementine  Bag, Organics Spinach, Granny Smith Apples;3
+755;80481;Bag of Organic Bananas;1
+756;80615;Organic Strawberries, Yo Baby Organic Vanilla Yogurt;2
+757;80751;Fresh Cauliflower;1
+758;80758;Spinach and Arugula Salad, Large Lemon;2
+759;80838;Organic Greek Lowfat Yogurt With Blueberries;1
+760;80858;Bag of Organic Bananas;1
+761;80888;Unsweetened Vanilla Almond Milk;1
+762;80999;Ezekiel 4:9 Sprouted Grain Tortillas;1
+763;81083;Bag of Organic Bananas, Bag of Organic Bananas, Bag of Organic Bananas;3
+764;81492;Total 0% Nonfat Plain Greek Yogurt;1
+765;81533;Roasted Turkey Breast, Roasted Turkey Breast, Organic Baby Rainbow Carrots, Almond Milk Ricotta, Organic Freeze Dried Strawberries, French Vanilla Soy Creamer, Snow Peas;7
+766;81582;Seedless Red Grapes;1
+767;81721;Unsweetened Original Almond Breeze Almond Milk;1
+768;81748;Bag of Organic Bananas, Bag of Organic Bananas, Bag of Organic Bananas, Organic Blackberries, Bag of Organic Bananas, Organic Raspberries;6
+769;81804;Organic Lemon;1
+770;81844;Low-Fat Mango on the Bottom Greek Yogurt;1
+771;81851;Hass Avocado Bag, Hass Avocado Bag;2
+772;81920;Vanilla Light & Fit Greek Yogurt;1
+773;81939;Green Onions;1
+774;82026;Bing Cherries;1
+775;82196;Natural California Raisins, Best Cinnamon Bread, Honeycrisp Apples, Best Cinnamon Bread, Organic Raisins, Best Cinnamon Bread;6
+776;82275;2% Reduced Fat Milk;1
+777;82457;Organic Baby Arugula;1
+778;82572;Small Hass Avocado, Cage Free Brown Eggs-Large, Grade A;3
+779;82607;Organic Baby Spinach;1
+780;82613;Fresh Ginger Root, Serrano Chile Peppers, Fresh Ginger Root, Fresh Ginger Root;4
+781;82758;Hand Picked Pomegranate Seeds/Arils;1
+782;82888;2% Milk;1
+783;82985;2% Reduced Fat Organic Milk;1
+784;83087;Original Pure Creamy Almond Milk, Old Fashioned Whole Wheat Bread, Organic Green Onions;3
+785;83265;Large Lemon, Granny Smith Apples;2
+786;83474;Organic Gala Apples;1
+787;83524;Celery Hearts;1
+788;83813;Unsweetened Almondmilk, Unsweetened Almondmilk, Organic Granny Smith Apple, Unsweetened Almondmilk, Unsweetened Almondmilk, Unsweetened Almondmilk;6
+789;83883;Kefir Cultured Milk Smoothie, Whole Milk, Sublime Slime Lime;3
+790;83994;Total Greek Strained Yogurt;1
+791;84030;Cage Free  100% Liquid Egg Whites;1
+792;84045;Milk, Organic, Fat Free;3
+793;84099;Cage Free Large White Eggs, Cage Free Large White Eggs, Almond Breeze Original Almond Milk;3
+794;84100;Organic Lowfat 1% Milk;1
+795;84124;Organic Reduced Fat 2% Milk, Organic Reduced Fat 2% Milk, Organic Reduced Fat 2% Milk;3
+796;84358;Vitamin C Super Orange Dietary Supplement, Banana, Banana, Banana, Banana, Banana;6
+797;84457;Organic Grade A Free Range Large Brown Eggs, Banana, Banana;3
+798;84551;Organic Navel Orange;1
+799;84591;Organic Avocado;1
+800;84639;Plain Almond Milk Yogurt, Sweet Batard, Organic Garnet Sweet Potato (Yam);3
+801;84934;Organic Blackberries, Bag of Organic Bananas;2
+802;85085;Organic Broccoli Crown;1
+803;85334;Michigan Organic Kale;1
+804;85392;ALMONDBREEZE UNSWEETENED, Organic Cinnamon Crunch Cereal, Honey Nut Cheerios;3
+805;85525;Organic Whole Grassmilk Milk;1
+806;85535;Bag of Organic Bananas;1
+807;85604;Original Cherry Orchard Yogurt, Leafy Green Romaine Lettuce, Leafy Green Romaine Lettuce, Leafy Green Romaine Lettuce, Leafy Green Romaine Lettuce;5
+808;85685;Large Lemon;1
+809;85791;Banana, Romaine Hearts;2
+810;85890;Milk, Organic, Vitamin D;3
+811;85913;Organic Baby Spinach;1
+812;85925;Organic Grape Tomatoes;1
+813;85931;Granny Smith Apples;1
+814;86141;Organic Celery Hearts, Organic Lemon;2
+815;86246;Fat Free Milk;1
+816;86264;Organic Roasted Turkey Breast;1
+817;86370;Sweet Kale Chopped Salad;1
+818;86543;Organic Baby Spinach;1
+819;86725;Organic Red Onion;1
+820;86752;Buttermilk, Cultured Low Fat;2
+821;86857;Brussels Sprouts;1
+822;86864;Kefir Cultured Milk Smoothie, Whole Milk, Sublime Slime Lime;3
+823;86906;Total 0% Greek Yogurt, Russet Potato;2
+824;87121;Organic Navel Orange, Fat Free Milk, Fat Free Milk;3
+825;87168;Organic Russet Potato;1
+826;87225;Organic Peeled Whole Baby Carrots, Bag of Organic Bananas;2
+827;87231;Green Bell Pepper;1
+828;87373;Mushroom Baby Bella;1
+829;87496;Gluten Free Millet-Chia Bread;1
+830;87537;Total 0% Nonfat Plain Greek Yogurt, Organic Blackberries;2
+831;87716;Roasted Salted Almonds;1
+832;87854;Red Onion;1
+833;87863;Organic Lowfat Plain Yogurt;1
+834;88067;2% Reduced Fat Milk, Flour Tortillas Soft Taco, 2% Reduced Fat Milk, Small Hass Avocado;4
+835;88221;Organic Roasted Turkey Breast;1
+836;88505;Roma Tomato;1
+837;88510;Blackberries, Sinfully Sweet Campari Tomatoes;2
+838;88538;Unsweetened Almondmilk;1
+839;88539;Mung Bean Sprouts;1
+840;88560;Low Fat 1% Milk, Green Tea With Ginseng and Honey;2
+841;88720;Organic Milk Reduced Fat, 2% Milkfat;2
+842;88776;Total 0% Nonfat Greek Yogurt;1
+843;88803;Organic Fuji Apple, Asparagus;2
+844;88988;Organic Fresh Carrot Chips;1
+845;88997;Organic Tomato Cluster, Corn Tortillas;2
+846;89197;Carrots;1
+847;89280;Organic Gracious Granola;1
+848;89382;Organic Red Onion;1
+849;89619;Organic Bread with 21 Whole Grains, Organic Reduced Fat Milk, Vanilla Pure Almond Milk, Vine Ripe Tomatoes;4
+850;89654;Organic Small Bunch Celery;1
+851;89655;Unsweetened Original Almond Breeze Almond Milk;1
+852;90030;Grassfed Whole Milk Plain Yogurt;1
+853;90032;Organic Whole Wheat Tortillas;1
+854;90136;Organic Lacinato (Dinosaur) Kale;1
+855;90169;Organic Granny Smith Apple;1
+856;90240;Fuji Apples, Fat Free Skim Milk;2
+857;90378;Orange Bell Pepper, Cage Free Brown Eggs-Large, Grade A, Sliced Baby Bella Mushrooms;4
+858;90411;Strawberry on the Bottom Nonfat Greek Yogurt;1
+859;90656;Fresh Ginger Root;1
+860;90659;Original Unsweetened Dairy-Free Beverage;1
+861;90665;Michigan Organic Kale;1
+862;90678;Unsweetened Cashew Milk;1
+863;90901;Cage Free Brown Eggs-Large, Grade A;2
+864;90906;Large Brown Eggs;1
+865;90953;100% Whole Wheat Bread, Yellow Onions, Light Vanilla Soymilk;3
+866;90968;Bag of Organic Bananas;1
+867;91055;Total 2% Greek Strained Yogurt with Cherry 5.3 oz;1
+868;91095;Banana;1
+869;91135;Organic Red Chard Greens;1
+870;91281;Organic Strawberry Smoothie;1
+871;91374;Fresh Asparagus, Organic Baby Spinach, Organic Egg Whites, Dried Mangos, Fresh Asparagus, Dried Mangos;6
+872;91498;Bag of Organic Bananas;1
+873;91503;Organic Yellow Onion, Organic Plain Whole Milk Yogurt, Fresh European Style Baby Spinach, Milk, Vitamin D, Whole Milk, Whole Milk;7
+874;91505;Bolthouse Baby Carrots;1
+875;91577;Chopped Onions;1
+876;91794;Banana, Toasted Coconut Chips Original Recipe;2
+877;92710;Bag of Organic Bananas, Fresh Asparagus;2
+878;92798;Honey Ham;1
+879;92993;2% Chocolate Milk;1
+880;93017;Organic Baby Carrots, Organic Baby Carrots;2
+881;93095;Organic Baby Spinach;1
+882;93111;Extra Fancy Unsalted Mixed Nuts, Extra Fancy Unsalted Mixed Nuts, Organic Baby Carrots;3
+883;93477;Uncured Genoa Salami;1
+884;93573;Bag of Organic Bananas;1
+885;93620;Bag of Organic Bananas;1
+886;93621;Fat Free Milk, Carrots;2
+887;93660;Organic Baby Arugula, 90% Lean Ground Beef, Organic Yellow Onion;3
+888;93675;Vanilla Almond Breeze Almond Milk, Rocky Mountain Sourdough Bread, Rocky Mountain Sourdough Bread, Unsweetened Almondmilk, Rocky Mountain Sourdough Bread, Rocky Mountain Sourdough Bread;6
+889;93724;Organic Reduced Fat Milk;1
+890;93748;Low Fat Kefir Cultured Milk Smoothie Lowfat Probiotic Blueberry;1
+891;93767;Organic Baby Carrots, Organic Baby Carrots, Organic Baby Carrots, Organic Baby Carrots, Organic Baby Carrots, Organic Baby Carrots, Organic Baby Carrots;7
+892;93771;100% Whole Wheat Bread;1
+893;93964;Broccoli Crown;1
+894;94068;Super Soft Taco Flour Tortillas;1
+895;94184;Flour Tortillas, Peaches, Bag of Organic Bananas, Bag of Organic Bananas, Bag of Organic Bananas;5
+896;94301;2% Reduced Fat Milk, Cantaloupe, 2% Reduced Fat Milk;3
+897;94309;Organic Lactose Free 1% Lowfat Milk, Organic Broccoli;2
+898;94458;Chopped Walnuts;1
+899;94475;Plain Whole Milk Yogurt;1
+900;94644;Vitamin D Whole Milk, Honey Nut Cheerios, Large Burrito Flour Tortillas, Bag of Organic Bananas;4
+901;94722;Danimals Strawberry Explosion Flavored Smoothie;1
+902;94742;Pine Nuts;1
+903;94878;Unsweetened Almond Milk, Organic Unsweetened Soy Milk Beverage, Whole Milk Plain Yogurt, Lowfat Raspberry Kefir Probiotic Cultured Milk Smoothie;4
+904;94970;Goat Milk;1
+905;94994;Organic Lactose Free 1% Lowfat Milk;1
+906;95003;Large Eggs, Large Eggs, Large Eggs, Large Eggs, Total 0% Nonfat Greek Yogurt, Organic Baby Arugula, Red Onions;7
+907;95007;Organic Whole Milk, Organic Free Range Grade A Large Brown Eggs;2
+908;95035;80% Lean Ground Beef, Organic Tomato Cluster, Large Alfresco Eggs;3
+909;95042;Organic Strawberries;1
+910;95083;Seven Grain Crispy Tenders, Organic Broccoli;2
+911;95174;Organic Baby Spinach;1
+912;95175;Organic Grade A Large Brown Eggs;1
+913;95180;Gluten Free Crunchy Vanilla Cereal;1
+914;95310;Organic Gala Apples;1
+915;95498;Organic Free Range Grade A Large Brown Eggs;1
+916;95696;Organic Baby Spinach, Organic Baby Spinach, Organic Baby Spinach;3
+917;95885;Bag of Organic Bananas;1
+918;95890;Uncured Black Forest Ham, Total 0% Greek Yogurt, Organic Lacinato (Dinosaur) Kale;3
+919;95934;Yogurt, Lowfat, Strawberry;3
+920;96070;Pitted Prunes;1
+921;96127;Organic Coconut Milk, Organic Coconut Milk, Chopped Onions;3
+922;96143;100% Whole Wheat Bread;1
+923;96350;Organic Mung-Bean Sprouts, Gluten Free 7 Grain Bread;2
+924;96360;Bag of Organic Bananas;1
+925;96507;Green Onions;1
+926;96521;Deli Fresh Smoked Turkey Breast;1
+927;96527;Garlic, Small Hass Avocado;2
+928;96622;Organic Hummus;1
+929;96642;Vanilla Unsweetened Almond Milk, Total 0% Nonfat Plain Greek Yogurt, Organic Baby Broccoli;3
+930;96723;Organic Blueberries, Banana, Banana, Banana;4
+931;96819;Garlic;1
+932;96863;Seedless Red Grapes;1
+933;96874;Organic Baby Spinach;1
+934;96880;Organic Baby Spinach;1
+935;97208;Organic Baby Spinach Salad, Organic Baby Spinach Salad;2
+936;97467;Organic Fat-Free Milk;1
+937;97514;Organic Red On the Vine Tomato;1
+938;97662;Total 2% Lowfat Greek Strained Yogurt With Blueberry;1
+939;97863;Cage Free  100% Liquid Egg Whites;1
+940;97883;Organic Whole Milk with DHA Omega-3;1
+941;98054;Milk, Reduced Fat, 2% Milkfat;3
+942;98062;Apple Honeycrisp Organic, Apple Honeycrisp Organic, Apple Honeycrisp Organic;3
+943;98080;Stringless Sugar Snap Peas;1
+944;98155;Organic Fat Free Milk;1
+945;98213;Organic Baby Spinach;1
+946;98220;Organic Crimini Mushrooms, Bunny-Luv Organic Carrots;2
+947;98286;Organic Pineapple Chunks;1
+948;98400;Organic Baby Spinach;1
+949;98539;Strawberries, Unsweetened Cashew Milk;2
+950;98569;Sliced Genoa Salami;1
+951;98576;Unsweetened Vanilla Almond Breeze;1
+952;98604;Original Cereal;1
+953;98631;Special K Fruit & Yogurt Cereal, Special K Fruit & Yogurt Cereal, Special K Fruit & Yogurt Cereal, Seedless Red Grapes;4
+954;98651;Bag of Organic Bananas;1
+955;98871;Family Size Naturally Flavored Whole Grain Oats Cereal;1
+956;99057;Organic Baby Kale Mix;1
+957;99060;Organic Avocado;1
+958;99114;Strawberries, Organic 2% Chocolate Milk;2
+959;99221;Total 0% Nonfat Plain Greek Yogurt;1
+960;99369;Small Hass Avocado;1
+961;99556;Michigan Organic Kale;1
+962;99667;Organic Large Extra Fancy Fuji Apple, Large Grapefruit;2
+963;99686;Organic Strawberries;1
+964;99767;Bag of Organic Bananas;1
+965;99770;Organic Baby Rainbow Carrots;1
+966;99868;Lactose Free Plain Kefir;1
+967;100027;Blueberry Yoghurt;1
+968;100110;Vitamin D Organic Whole Milk;1
+969;100342;Special K Fruit & Yogurt Cereal, Special K Fruit & Yogurt Cereal, Special K Fruit & Yogurt Cereal;3
+970;100465;I Heart Baby Kale;1
+971;100530;Bag of Organic Bananas;1
+972;100552;Cafe Latte Pure Lightly Sweetened Iced Coffee With Almond Milk, Cafe Latte Pure Lightly Sweetened Iced Coffee With Almond Milk, Cafe Latte Pure Lightly Sweetened Iced Coffee With Almond Milk;3
+973;100624;Whole Milk;1
+974;100964;Organic Avocado;1
+975;100995;Organic Tomato Cluster;1
+976;101077;0% Greek, Blueberry on the Bottom Yogurt;2
+977;101168;Yogurt, Lowfat, Strawberry;3
+978;101189;Banana, Banana, Banana;3
+979;101258;Gluten Free Sliced Mountain White Bread, Lactose Free Plain Kefir, Banana, Uncured Genoa Salami, Strawberries;5
+980;101341;Corn Tortillas, Organic Baby Spinach;2
+981;101434;Organic Large Grade A Brown Eggs;1
+982;101465;Organic Gala Apples;1
+983;101540;Reduced Fat 2% Milk, Apples, Original Almondmilk, Apples, Reduced Fat 2% Milk, Extra Fancy Unsalted Mixed Nuts, Reduced Fat 2% Milk, Apples;8
+984;101705;Organic Baby Arugula;1
+985;102069;Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt;1
+986;102076;Cereal;1
+987;102149;Strawberries, Frosted Mini-Wheats Original Cereal, Iceberg Lettuce, Honey Bunches of Oats Honey Roasted with Almonds Cereal;4
+988;102155;Beef Short Ribs, Organic Lowfat French Vanilla Yogurt;2
+989;102188;Michigan Organic Kale, Organic Bunch Beets;2
+990;102280;Organic Spinach Bunch, Banana;2
+991;102316;Banana, Original Unsweetened Dairy-Free Beverage, Organic Mini Peeled Carrots;3
+992;102337;Organic Red Delicious Apple;1
+993;102418;Grape White/Green Seedless;1
+994;102475;Bag of Organic Bananas, Red Seedless Grapes, Red Seedless Grapes, Red Seedless Grapes, Red Seedless Grapes;5
+995;102489;YoBaby Blueberry Apple Yogurt;1
+996;102613;Organic Milk Reduced Fat, 2% Milkfat;2
+997;102650;Sonoma Handmade Style Corn Tortillas;1
+998;102793;Organic Lacinato (Dinosaur) Kale;1
+999;102882;Yogurt, Strained Low-Fat, Coconut;3
+1000;102924;Liquid Egg Whites, Liquid Egg Whites, Liquid Egg Whites, Liquid Egg Whites, Liquid Egg Whites, Liquid Egg Whites, Liquid Egg Whites;7
+1001;102985;Organic Milk, Organic Milk;2
+1002;102996;Unsweetened Vanilla Almond Milk;1
+1003;103064;Organic Extra Large Brown Eggs;1
+1004;103464;Large Alfresco Eggs;1
+1005;103518;Organic Peeled Whole Baby Carrots;1
+1006;103522;Asparagus, Calcium Enriched 100% Lactose Free Fat Free Milk;2
+1007;103594;Banana, Cage Free Brown Eggs-Large, Grade A;3
+1008;103621;Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt;1
+1009;103717;Honeycrisp Apple;1
+1010;103723;Almond Breeze Original Almond Milk;1
+1011;103750;Organic Baby Arugula;1
+1012;103903;Total 2% Lowfat Plain Greek Yogurt;1
+1013;103996;Icelandic Style Skyr Blueberry Non-fat Yogurt;1
+1014;104068;Organic Grade A Large Brown Eggs, Peeled Garlic, Organic Romaine, Organic Romaine, Organic Snipped Green Beans;5
+1015;104146;Cage Free Brown Eggs-Large, Grade A;2
+1016;104308;Granny Smith Apples;1
+1017;104389;Banana;1
+1018;104432;Organic Lactose Free 1% Lowfat Milk;1
+1019;104615;Organic Soft Wheat Bread;1
+1020;104843;Unsweetened Original Almond Breeze Almond Milk;1
+1021;104976;Unsweetened Almondmilk;1
+1022;105029;Bag of Organic Bananas;1
+1023;105051;Dry Roasted Peanuts;1
+1024;105201;Organic Plain French Style Yogurt;1
+1025;105209;Black Plum;1
+1026;105274;Bag of Organic Bananas;1
+1027;105350;"The \""World's Best\"" Veggie Burger";1
+1028;105444;Organic Red Grapes;1
+1029;105794;Challah Bread;1
+1030;105884;Organic Mango Slices, Strawberries, Organic Spring Mix, Seedless Small Watermelon, Seedless Small Watermelon;5
+1031;106133;Organic Spring Mix Salad;1
+1032;106207;Challah Bread, Challah Bread, Challah Bread, Challah Bread, Challah Bread;5
+1033;106234;Organic Chocolate 1% Milk with DHA Omega-3;1
+1034;106251;Russet Potato;1
+1035;106303;Low-Fat Mango on the Bottom Greek Yogurt, Low-Fat Mango on the Bottom Greek Yogurt;2
+1036;106401;Vanilla Unsweetened Almond Milk;1
+1037;106450;Organic Gala Apples;1
+1038;106647;Grape White/Green Seedless, Original Soy Creamer;2
+1039;106648;Organic Large Extra Fancy Fuji Apple, Carrots, Organic Russet Potato, Organic Russet Potato, Organic Whole Milk;5
+1040;106744;Organic Red On the Vine Tomato, Organic Grade A Free Range Large Brown Eggs;2
+1041;106881;Organic Low Fat Chocolate Milk, Organic Low Fat Chocolate Milk, Frosted Flakes, Unsweetened Original Almond Breeze Almond Milk;4
+1042;106992;Organic Unsweetened Almond Milk;1
+1043;106995;French Baguette;1
+1044;107247;Strawberries;1
+1045;107315;Bread, Sprouted Sourdough;2
+1046;107325;Organic Bunch Beets;1
+1047;107382;Organic Grape Tomatoes;1
+1048;107397;2% Lactose Free Milk, 2% Lactose Free Milk, 2% Lactose Free Milk, 2% Lactose Free Milk, 2% Lactose Free Milk;5
+1049;107832;Organic Thompson Seedless Raisins;1
+1050;107914;Organic Yellow Onion, Sweet Onions, Sweet Onions, Organic Avocado;4
+1051;108020;Total 2% with Strawberry Lowfat Greek Strained Yogurt;1
+1052;108028;Organic Roasted Turkey Breast;1
+1053;108106;Organic Russet Potato Bag, Bag of Organic Bananas, Organic Vanilla Almond Milk;3
+1054;108159;Fresh CA Grown Eggs, Pitted Dates, Fresh CA Grown Eggs, Original Style Yoghurt Plain, Banana;5
+1055;108185;YoKids Blueberry & Strawberry/Vanilla Yogurt, Banana;2
+1056;108195;Banana;1
+1057;108367;Extra Fancy Unsalted Mixed Nuts, Extra Fancy Unsalted Mixed Nuts, Extra Fancy Unsalted Mixed Nuts, Extra Fancy Unsalted Mixed Nuts, Extra Fancy Unsalted Mixed Nuts;5
+1058;108468;Organic Large Extra Fancy Fuji Apple;1
+1059;108517;Grade AA Large White Eggs, Russet Potatoes, Broccoli Pot Pie With Cheddar Cheese Sauce, Sinfully Sweet Campari Tomatoes;4
+1060;108695;Peach on the Bottom Nonfat Greek Yogurt;1
+1061;108751;Honey & Maple Turkey Breast;1
+1062;108780;Mini Seedless Cucumbers;1
+1063;108856;Sliced Prosciutto;1
+1064;108887;Organic Unsweetened Vanilla Almond Milk, with Crispy Almonds Cereal, Organic Unsweetened Vanilla Almond Milk;3
+1065;108903;Clementines, Bag;2
+1066;109052;Banana, Organic Coconut Milk;2
+1067;109074;Total 2% All Natural Plain Greek Yogurt, Total 2% All Natural Plain Greek Yogurt, Flax Plus Organic Pumpkin Flax Granola, Go Lean Crunch! Honey Almond Flax Cereal, Total 2% All Natural Plain Greek Yogurt, Maple Quinoa Cluster With Chia Seeds, Organic 2% Reduced Fat Milk;7
+1068;109218;Whole Grain Oat Cereal, Organic Strawberry Smoothie, Unsweetened Almondmilk;3
+1069;109390;Heirloom Tomato, Gala Apples;2
+1070;109615;Organic Spinach Bunch;1
+1071;109816;Organic Lite Coconut Milk, Organic Baby Spinach;2
+1072;109856;White Corn Tortillas, White Corn Tortillas;2
+1073;110097;Grape White/Green Seedless;1
+1074;110212;Organic Lowfat 1% Milk;1
+1075;110322;Prosciutto, Americano;2
+1076;110671;Baby Spinach;1
+1077;110756;Baby Arugula;1
+1078;110863;Reduced Fat 2% Milk, Grade A Organic Large Brown Eggs;2
+1079;110867;Wild Berry Smoothie;1
+1080;110948;Banana, Bag of Organic Lemons;2
+1081;111176;Spring Mix;1
+1082;111242;Reduced Fat 2% Milk, Reduced Fat 2% Milk;2
+1083;111338;Organic Yellow Onion;1
+1084;111381;Bag of Organic Bananas;1
+1085;111402;Bag of Organic Bananas;1
+1086;111489;Mini Seedless Cucumbers;1
+1087;111514;Milk, Organic, Vitamin D;3
+1088;111599;Organic Garnet Sweet Potato (Yam);1
+1089;111605;Organic Lowfat 1% Milk;1
+1090;111634;Bag of Organic Bananas;1
+1091;111655;Organic Bell Pepper;1
+1092;112155;Original Egg Substitute;1
+1093;112304;Blackberries, Bag of Organic Bananas, Baby Bok Choy, Brussels Sprouts, Strawberries, Baby Bok Choy;6
+1094;112454;Bag of Organic Bananas;1
+1095;112473;Grapefruit, Bag;2
+1096;112475;Dubliner Wedge Pre Cut Cheese;1
+1097;112601;Organic Whole Milk, Honeycrisp Apple;2
+1098;112706;Organic Baby Spinach;1
+1099;112790;Red Seedless Grapes Bunch, Family Size Naturally Flavored Whole Grain Oats Cereal, Red Seedless Grapes Bunch, Limes;4
+1100;112961;Seedless Watermelon;1
+1101;113029;Organic Cucumber;1
+1102;113035;Yoghurt Blueberry, Organic Bunch Beets;2
+1103;113068;Ancient Grain Original Granola;1
+1104;113200;100% Whole Wheat Bread, 100% Whole Wheat Bread, Banana, Oven Roasted Turkey Breast;4
+1105;113251;Organic Strawberries;1
+1106;113379;Almond Breeze Original Almond Milk;1
+1107;113403;Red Peppers, Banana, Limes;3
+1108;113609;Organic Garlic, Broccoli Crown;2
+1109;113647;Yellow Corn Organic Tortillas;1
+1110;113657;Bag of Organic Bananas;1
+1111;113699;Whole Organic Omega 3 Milk, 0% Fat Free Organic Milk, Whole Organic Omega 3 Milk, 0% Fat Free Organic Milk, Whole Organic Omega 3 Milk, 0% Fat Free Organic Milk, Vitamin D Organic Whole Milk, Vitamin D Organic Whole Milk;8
+1112;113765;Go Lean Crunch! Honey Almond Flax Cereal, Organic Milk Reduced Fat, 2% Milkfat, Organic Milk Reduced Fat, 2% Milkfat, 2% Reduced Fat Milk;6
+1113;113768;Olive Oil & Sel Gris Sourdough Flatbread;1
+1114;113901;Deli Fresh Shaved Smoked Turkey Breast, Banana;2
+1115;114117;Organic Strawberries;1
+1116;114192;Organic Soft Wheat Bread, Organic Large Grade A Brown Eggs;2
+1117;114261;0% Greek Strained Yogurt;1
+1118;114574;Green Onions;1
+1119;114709;Whole Grain Oat Cereal, Cheerios Cereal, Broccoli Crown, Organic Granny Smith Apple, Whole Grain Oat Cereal;5
+1120;114740;0% Fat Free Organic Milk, Cold Brew Coffee Mocha, Cold Brew Coffee Mocha;3
+1121;114795;Michigan Organic Kale;1
+1122;114841;Total 0% Greek Yogurt;1
+1123;114931;Challah Bread;1
+1124;115134;Organic Apples Pommes;1
+1125;115214;Banana, Banana;2
+1126;115334;Coconut Blended Greek Yogurt;1
+1127;115387;Unsweetened Original Almond Breeze Almond Milk;1
+1128;115391;Total 2% with Raspberry Pomegranate Lowfat Greek Strained Yogurt, Grade A Large Eggs Cage Free Omega 3;2
+1129;115406;Organic Red Cherry Tomato, Red Onion;2
+1130;115449;Large Lemon;1
+1131;115459;Cherubs Heavenly Salad Tomatoes, Apple Cinnamon Cheerios Cereal, YoBaby Blueberry Apple Yogurt;3
+1132;115535;Beefsteak Tomatoes, Apples, Strawberries;3
+1133;115644;Banana;1
+1134;115684;Organic Bosc Pear;1
+1135;115762;Organic Butternut Squash;1
+1136;116087;100% Lactose Free Reduced Fat Calcium Enriched Milk;1
+1137;116112;Organic Eggs Large;1
+1138;116172;Organic Baby Broccoli;1
+1139;116199;Organic Homogenized Whole Milk, Flank Steak, Strawberries;3
+1140;116230;Red Raspberries;1
+1141;116294;Green Bell Pepper;1
+1142;116374;Organic Large Grade AA Omega-3 Eggs;1
+1143;116518;Seedless Red Grapes, Classic White Bread;2
+1144;116599;Organic Reduced Fat 2% Milk;1
+1145;116614;Bag of Organic Bananas;1
+1146;116893;Bag of Organic Bananas;1
+1147;117006;Seedless Red Grapes;1
+1148;117033;Red Potatoes, Red Potatoes;2
+1149;117062;Meyer Lemons, Hass Avocado Variety, Hass Avocado Variety, Hass Avocado Variety, Hass Avocado Variety;5
+1150;117297;Organic Large Brown Grade AA Cage Free Eggs, Organic Romaine Leaf;2
+1151;117664;Unsweetened Original Almond Breeze Almond Milk;1
+1152;117842;Bag of Organic Bananas;1
+1153;117849;Organic Russet Potato, Green Beans, Honey Wheat Bread, Organic Green Cabbage;4
+1154;117853;Small Hass Avocado;1
+1155;117868;Cherubs Heavenly Salad Tomatoes;1
+1156;117891;Mandarins Bag;1
+1157;117937;Organic Strawberries, Boston / Butter Lettuce, Large Lemon, Watermelon Chunks;4
+1158;118024;Fresh Asparagus, Fresh Asparagus, Premium Grapefruit Large;3
+1159;118153;Turkey Pepperoni Slices;1
+1160;118281;Seedless Red Grapes;1
+1161;118319;Organic Avocado;1
+1162;118389;Honeycrisp Apple, Southwest Chopped Salad Kit with Dressing, Strawberries, Southwest Chopped Salad Kit with Dressing;4
+1163;118394;Organic 1% Low Fat Milk, Raw Almonds, Cold Brew Coffee Double Espresso with Almond Milk;3
+1164;118413;2% Reduced Fat Milk, 2% Reduced Fat Milk;2
+1165;118451;0% Greek Strained Yogurt, 0% Greek Strained Yogurt, 0% Greek Strained Yogurt, 0% Greek Strained Yogurt, 0% Greek Strained Yogurt, 0% Greek Strained Yogurt, 0% Greek Strained Yogurt;7
+1166;118585;Large Lemon, Mandarin Oranges, Half Dozen Grade A White Eggs Large, Blackberries;4
+1167;118593;Organic Sliced White Mushrooms;1
+1168;118601;Dried Mangos, Dried Mangos, Cherrios Honey Nut, Dried Mangos, Dried Mangos, Dried Mangos, Cherrios Honey Nut;7
+1169;118625;Dry Roasted Almonds, Dry Roasted Almonds, Unsweetened Vanilla Almond Breeze, Unsweetened Vanilla Almond Breeze, Dry Roasted Almonds, Dry Roasted Almonds, Dry Roasted Almonds;7
+1170;118655;Seedless Red Grapes;1
+1171;118873;Seedless Small Watermelon;1
+1172;118883;Total 0% with Honey Nonfat Greek Strained Yogurt, Organic Red Delicious Apple, Organic Red Delicious Apple, Organic Red Delicious Apple, Organic Red Delicious Apple;5
+1173;118905;Yellow Soft Corn Tortillas 8 Count;1
+1174;118961;Bag of Organic Bananas;1
+1175;119060;Original Soy Milk, Flour Tortillas Soft Taco, Organic Navel Orange, 2% Reduced Fat Milk;4
+1176;119105;Organic Reduced Fat 2% Milk;1
+1177;119249;Organic Nectarine;1
+1178;119318;Organic Cauliflower Florets, Limes, Organic Cauliflower Florets, Organic Hass Avocado;4
+1179;119459;Organic Granny Smith Apple;1
+1180;119544;Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt;1
+1181;119623;Cereal Variety Fun Pack;1
+1182;119625;Grade A Large Eggs Cage Free Omega 3, Organic 1% Lowfat Milk, 2% Reduced Fat Milk;3
+1183;119655;Original Almondmilk, Original Almondmilk, Organic Crimini Mushrooms, Organic Egg Whites, Hass Avocado Variety, Corn Tortillas;6
+1184;119758;Plain Non-Fat Greek Yogurt;1
+1185;119766;Total 0% Nonfat Greek Yogurt;1
+1186;119811;Total 0% Greek Yogurt;1
+1187;119980;Super Soft Taco Flour Tortillas;1
+1188;119981;Organic Gala Apples;1
+1189;120013;Grade A Large Eggs Cage Free Omega 3;1
+1190;120112;Organic Avocados Hass Variety;1
+1191;120169;Unsweetened Almondmilk;1
+1192;120243;Gala Apples;1
+1193;120369;English Seedless Cucumber;1
+1194;120422;Organic Baby Rainbow Carrots;1
+1195;120503;Lactose Free 2% Reduced Fat Milk, Organic Large Brown Grade AA Cage Free Eggs;2
+1196;120599;Apple Honeycrisp Organic, Apple Honeycrisp Organic;2
+1197;120609;Yellow Onions, Unsweetened Almondmilk;2
+1198;120786;Large Alfresco Eggs;1
+1199;121084;Organic Butterhead (Boston, Butter, Bibb) Lettuce;3
+1200;121086;Red Seedless Grapes;1
+1201;121107;Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale;3
+1202;121120;White Sliced Mushrooms;1
+1203;121203;Organic Reduced Fat Milk;1
+1204;121387;Bag of Organic Bananas;1
+1205;121403;Unsweetened Almondmilk;1
+1206;121430;Large Greenhouse Tomato;1
+1207;121442;Dha Omega 3 Vitamin D Milk;1
+1208;121736;Organic Red On the Vine Tomato;1
+1209;121755;Jalapeno Peppers, Large Enriched Bread, Grade A Large Eggs Cage Free Omega 3;3
+1210;121938;15 Grain Whole Grain Bread;1
+1211;121950;Organic Whole Milk, Organic Whole Milk, Organic Whole Milk;3
+1212;122042;Total 2% Greek Strained Yogurt with Cherry 5.3 oz;1
+1213;122047;Mini Peeled Carrots, Caesar Salad Kit, Garlic Bread, Spinach, 100% Lactose Free Fat Free Milk, Spinach, Fresh Sugar Snap Peas;7
+1214;122111;Strawberry Rhubarb Yoghurt, Tart Cherry Yoghurt;2
+1215;122115;Organic Unsweetened Almond Milk, Whole Almonds, Organic Unsweetened Almond Milk, Organic Unsweetened Almond Milk;4
+1216;122349;Organic Large Extra Fancy Fuji Apple, Organic Garnet Sweet Potato (Yam), Organic Bartlett Pear;3
+1217;122364;YoKids Squeeze! Organic Strawberry Flavor Yogurt;1
+1218;122653;Oven Roasted Turkey Breast, Banana, Super Soft Taco Flour Tortillas, Bolthouse Baby Carrots, White Sliced Mushrooms, Organic Avocado;6
+1219;122761;Organic Baby Carrots;1
+1220;122818;Mango, Cut & Peeled Baby Carrots;2
+1221;123123;Organic Red Radish, Bunch;2
+1222;123184;Large Alfresco Eggs;1
+1223;123364;Red Onion, Seedless Watermelon, YoBaby Peach Pear Yogurt;3
+1224;123422;Whole Milk Plain Yogurt;1
+1225;123471;Organic Bartlett Pear;1
+1226;123483;Organic Hemp Plus Granola Cereal;1
+1227;123513;Organic Rainbow Carrots, Honeycrisp Apple;2
+1228;123602;Best Cinnamon Bread;1
+1229;123876;Organic Garlic, Organic Romaine Hearts;2
+1230;123900;Nonfat Strawberry With Fruit On The Bottom Greek Yogurt;1
+1231;123932;Total 0% Nonfat Greek Yogurt;1
+1232;124476;Red Peppers;1
+1233;124566;Uncured Slow Cooked Ham;1
+1234;124571;English Seedless Cucumber;1
+1235;124634;Cage Free Grade A Large Brown Eggs, Organic Greek Whole Milk Blended Vanilla Bean Yogurt, Limes;3
+1236;124688;Red Raspberries, Vanilla Skyr Nonfat Yogurt, Vanilla Skyr Nonfat Yogurt, Vanilla Skyr Nonfat Yogurt, Vanilla Skyr Nonfat Yogurt, Vanilla Skyr Nonfat Yogurt;6
+1237;124720;Organic Bartlett Pear;1
+1238;124878;Almond Flour Tortillas;1
+1239;124892;Hand Picked Pomegranate Seeds/Arils;1
+1240;125053;Low Fat 1% Milk, Low Fat 1% Milk;2
+1241;125059;Organic Yellow Squash, Grade A Large White Eggs, Whole Milk;3
+1242;125154;Organic Zucchini;1
+1243;125234;Organic Low Fat Milk;1
+1244;125335;Activia Peach/Strawberry Lowfat Yogurt, 100% Whole Wheat Bread, Blackberries, 100% Whole Wheat Bread, Mini Watermelon, 100% Whole Wheat Bread;6
+1245;125431;2% Chocolate Milk;1
+1246;125484;Organic Russet Potato;1
+1247;125655;Organic Italian Salad;1
+1248;125748;Banana, Banana, Banana, Banana, Large Burrito Flour Tortillas, Iceberg Lettuce;6
+1249;125808;Organic Green Cabbage, Large Grapefruit, Seedless Red Grapes;3
+1250;125871;Fresh Cauliflower;1
+1251;125931;Organic Whipped Naturally Buttery Spread;1
+1252;126147;Red Potatoes, Half Dozen Grade A White Eggs Large;2
+1253;126206;Organic Garnet Sweet Potato (Yam);1
+1254;126389;Organic Zucchini;1
+1255;126480;Bag of Organic Bananas;1
+1256;126717;Organic Baby Rainbow Carrots;1
+1257;126828;Original Strawberry Banana Yogurt, 2% Reduced Fat Milk, Original Strawberry Banana Yogurt, Original Strawberry Banana Yogurt, Original Strawberry Banana Yogurt;5
+1258;126831;Apple Honeycrisp Organic;1
+1259;126912;Bag of Organic Bananas;1
+1260;127152;Bag of Organic Bananas, Fresh Asparagus;2
+1261;127271;Bag of Organic Bananas, Organic Baby Carrots, Bag of Organic Bananas, Chunk Light Tuna;4
+1262;127417;Organic Grade A Free Range Large Brown Eggs;1
+1263;127615;Cage Free Brown Eggs-Large, Grade A;2
+1264;127694;Unsweetened Almondmilk, Unsweetened Almondmilk, Unsweetened Almondmilk, Unsweetened Almondmilk, 100% Whole Wheat Bread, Cherubs Heavenly Salad Tomatoes;6
+1265;127735;Humboldt Fog, Beef Skirt Steak;2
+1266;127813;Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale;3
+1267;127839;Organic Fat Free Milk;1
+1268;127966;Grade AA Large White Eggs;1
+1269;127984;Organic Gala Apples;1
+1270;128654;Bag of Organic Bananas, Iceberg Lettuce, Chopped Walnuts, Whole Vitamin D Milk;4
+1271;128760;Banana;1
+1272;128907;Organic Hass Avocado;1
+1273;128966;Organic Plain Yogurt, Organic Whole Milk;2
+1274;129003;Organic Crimini Mushrooms, Organic Broccoli, Organic Broccoli;3
+1275;129112;Original Pure Creamy Almond Milk;1
+1276;129220;Original Soy Creamer, Sourdough Bread;2
+1277;129257;Baby Spinach, Baby Spinach, Baby Spinach, Organic Strawberries;4
+1278;129392;Bag of Organic Bananas, Dried Mangos, Dried Mangos, Dried Mangos, Dried Mangos;5
+1279;129443;Fresh Mozzarella Snacking Cheese;1
+1280;129702;Organic Grade A Free Range Large Brown Eggs;1
+1281;129826;Organic Large Brown Grade AA Cage Free Eggs, Organic Roma Tomato, Organic Red Bell Pepper;3
+1282;129880;Fat Free Milk, Large Greenhouse Tomato, Fat Free Milk;3
+1283;129899;Bag of Organic Bananas, Organic Fuji Apples, Organic Fuji Apples;3
+1284;129930;Organic Good Seed Bread, Organic Good Seed Bread, Organic Good Seed Bread, Organic Good Seed Bread, Organic Good Seed Bread, Organic Good Seed Bread, Bag of Organic Bananas;7
+1285;129978;Bag of Organic Bananas;1
+1286;130109;Organic Egg Whites, Organic Tomato Cluster;2
+1287;130149;Organic Cucumber;1
+1288;130179;Coconut Blended Greek Yogurt, Light, Very Vanilla, 100% Whole Wheat Bread, Dha Omega 3 Vitamin D Milk;5
+1289;130222;Original Enriched Rice Drink;1
+1290;130245;Total 2% Greek Strained Yogurt with Cherry 5.3 oz;1
+1291;130425;100% Lactose Free Reduced Fat Calcium Enriched Milk, Reduced Fat Milk 100% Lactose Free, Reduced Fat 2% Lactose-Free Milk, 100% Lactose Free Reduced Fat Calcium Enriched Milk;4
+1292;130499;Organic Grade A Large Brown Eggs;1
+1293;130505;Original Dried Cranberries, Organic Crimini Mushrooms, Organic Crimini Mushrooms;3
+1294;130670;Carrots, Pineapple;2
+1295;130853;Strawberry on the Bottom Nonfat Greek Yogurt, Milk, Vitamin D, 2% Reduced Fat Milk;4
+1296;131175;Large Lemon;1
+1297;131401;Bag of Organic Bananas;1
+1298;131420;Fresh Ginger Root;1
+1299;131440;Organic Red Onion;1
+1300;131478;Honeycrisp Apples, Brussels Sprouts, Brussels Sprouts, Meyer Lemons;4
+1301;131578;Large Lemon, Garlic, Fresh Ginger Root;3
+1302;131670;Banana, Asparagus, Banana, Banana;4
+1303;131714;Organic Baby Carrots;1
+1304;131747;Organic Extra Large Grade AA Brown Eggs;1
+1305;131806;Organic Strawberries;1
+1306;131817;Total 2% All Natural Plain Greek Yogurt, Total 2% All Natural Plain Greek Yogurt, Total 2% All Natural Plain Greek Yogurt, Banana, Banana, Banana, Raspberry Yoghurt;7
+1307;131923;Organic Baby Spinach;1
+1308;132014;Organic Large Grade A Eggs;1
+1309;132015;Pure Almond Unsweetened Original Almond Milk;1
+1310;132481;Large Yellow Flesh Nectarine;1
+1311;132490;Unsweetened Almondmilk;1
+1312;132557;Organic Good Seed Bread;1
+1313;132604;Organic Yellow Onion;1
+1314;132642;Bag of Organic Bananas;1
+1315;132845;Organic Grade A Large Brown Eggs;1
+1316;132922;Organic Grade A Free Range Large Brown Eggs;1
+1317;133086;Total 2% All Natural Plain Greek Yogurt;1
+1318;133179;Uncured Genoa Salami;1
+1319;133237;Tempt Unsweetened Original Hemp Milk, Vine Ripe Tomatoes;2
+1320;133333;Organic Strawberries, Organic Lemon, Organic Grape Tomatoes;3
+1321;133389;Sinfully Sweet Campari Tomatoes, Sinfully Sweet Campari Tomatoes;2
+1322;133465;Organic Green Seedless Grapes, Organic Green Seedless Grapes, Grape White/Green Seedless;3
+1323;133577;Grade A Large White Eggs;1
+1324;133651;Vine Ripe Tomatoes;1
+1325;133932;Fuji Apples, Strawberries, Brussels Sprouts;3
+1326;134097;Strawberry on the Bottom Nonfat Greek Yogurt;1
+1327;134116;Mache Rosettes French Salad Mix;1
+1328;134210;Sinfully Sweet Campari Tomatoes, Organic Baby Spinach, Pistachios, Organic Baby Spinach, 0% Greek Strained Yogurt, Pistachios;6
+1329;134270;Organic Baby Carrots;1
+1330;134347;Banana;1
+1331;134348;Organic Reduced Fat 2% Milk;1
+1332;134400;Raisin Bran Crunch Cereal;1
+1333;134417;Organic Strawberries;1
+1334;134672;Organic Uncured Sliced Black Forest Ham;1
+1335;134815;Organic Lacinato (Dinosaur) Kale;1
+1336;134836;Organic Romaine Lettuce;1
+1337;134865;Oven Roasted Turkey Breast, Organic Baby Romaine;2
+1338;134936;Cherry Pomegranate Greek Yogurt, Banana, Sweet Potato Yam;3
+1339;135025;Non-Fat Greek Yogurt With Strawberries on the Bottom;1
+1340;135032;Organic Small Bunch Celery;1
+1341;135066;Ezekiel 4:9 Bread Organic Sprouted Whole Grain, Ezekiel 4:9 Bread Organic Sprouted Whole Grain, Ezekiel 4:9 Bread Organic Sprouted Whole Grain, Ezekiel 4:9 Bread Organic Sprouted Whole Grain, Ezekiel 4:9 Bread Organic Sprouted Whole Grain;5
+1342;135100;Good Seed Organic Thin Sliced Bread, Organic Baby Rainbow Carrots, Uncured Genoa Salami;3
+1343;135136;Organic Soft Wheat Bread, Large Lemon, Organic Yellow Onion;3
+1344;135152;Rise Krisipies Toasted Rice Cereal;1
+1345;135467;Organic Whole Wheat Pita;1
+1346;135893;Large Grade AA Organic Eggs;1
+1347;136034;Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt;1
+1348;136290;Plain Non-Fat Greek Yogurt, Roasted & Salted Pistachios;2
+1349;136310;Small Walnut Levain Bread;1
+1350;136500;Bag of Organic Bananas;1
+1351;137003;Cream on Top Strawberry Organic Yogurt;1
+1352;137028;Strawberries;1
+1353;137068;Organic Lacinato (Dinosaur) Kale;1
+1354;137123;Dha Omega 3 Reduced Fat 2% Milk, Organic Blackberries;2
+1355;137205;Organic Extra Large Brown Omega 3 Eggs;1
+1356;137254;Grade AA Large White Eggs;1
+1357;137394;Bag of Organic Bananas, Oranges, Premium Grapefruit Large, Premium Grapefruit Large;4
+1358;137403;Organic Baby Spinach;1
+1359;137460;Organic Navel Orange, Organic Red Bell Pepper;2
+1360;137522;2% Reduced Fat DHA Omega-3 Reduced Fat Milk;1
+1361;137574;ALMONDBREEZE UNSWEETENED, White Peach, Uncured Genoa Salami;3
+1362;137743;1% Low Fat Milk;1
+1363;137860;Organic Low Fat Milk;1
+1364;138021;Bag of Organic Bananas;1
+1365;138073;Banana, Banana, Banana, Vitamin C Super Orange Dietary Supplement;4
+1366;138122;Bag of Organic Bananas;1
+1367;138129;Organic Baby Spinach;1
+1368;138154;Green Leaf Shreds, Green Leaf Shreds, Organic Yellow Onion;3
+1369;138228;Organic Whole Cashews;1
+1370;138265;Pomegranate on the Bottom Non-Fat Greek Yogurt, Pomegranate on the Bottom Non-Fat Greek Yogurt, Pomegranate on the Bottom Non-Fat Greek Yogurt, Pomegranate on the Bottom Non-Fat Greek Yogurt, Pomegranate on the Bottom Non-Fat Greek Yogurt, Non Fat Black Cherry on the Bottom Greek Yogurt;6
+1371;138301;Organic YoBaby Vanilla Yogurt, Banana;2
+1372;138337;Smoked Turkey Breast Slices;1
+1373;138450;Baby Spinach Salad;1
+1374;138486;Organic Dandelion Greens, Organic Dandelion Greens, Organic Dandelion Greens;3
+1375;139217;Grade A Goat Milk;1
+1376;139254;2% Reduced Fat Milk;1
+1377;139426;Jalapeno Peppers, Cherubs Heavenly Salad Tomatoes;2
+1378;139600;Organic Milk Reduced Fat, 2% Milkfat;2
+1379;139651;Organic Plain Yogurt, Organic Multigrain Bread, Organic Multigrain Bread, Organic Multigrain Bread, Organic Plain Yogurt;5
+1380;139707;Organic Avocado, Organic Avocado;2
+1381;139885;Organic Large Extra Fancy Fuji Apple;1
+1382;140001;Organic Hothouse Cucumbers;1
+1383;140437;Organic Zucchini Spirals, Roasted Turkey Breast, Large Alfresco Eggs;3
+1384;140455;Michigan Organic Kale;1
+1385;140481;Grade AA Extra Large Eggs, Organic Milk, Organic Milk;3
+1386;140565;Michigan Organic Kale;1
+1387;140577;Pecorino Romano;1
+1388;140696;Seedless Red Grapes;1
+1389;140701;Golden Sweet Potato;1
+1390;140718;Organic Whipped Naturally Buttery Spread;1
+1391;140725;Banana, Mandarins Bag, Banana, Banana;4
+1392;140726;Organic Extra Large Brown Omega 3 Eggs;1
+1393;140775;Pomegranate Arils;1
+1394;140803;Organic Blackberries, Organic Australian Style Vanilla Lowfat Yogurt;2
+1395;140839;Organic Baby Spring Mix;1
+1396;140922;Organic Pine Nuts, Organic Crimini Mushrooms, Premium Grapefruit Large, Organic Crimini Mushrooms;4
+1397;141047;Golden Pineapple;1
+1398;141156;Large Lemon;1
+1399;141281;Organic Kale Greens;1
+1400;141324;Bananas, Bananas, Bananas;3
+1401;141335;Petit Suisse Fruit;1
+1402;141529;Organic Red Radish, Bunch;2
+1403;141537;Organic Mini Sweet Peppers;1
+1404;141903;Large Enriched Bread;1
+1405;141944;Lacinato Kale Og;1
+1406;141949;YoKids Squeeze Organic Blueberry Blue Yogurt;1
+1407;142172;Organic Small Bunch Celery;1
+1408;142303;Strawberries, Strawberries, White Italian Bread;3
+1409;142388;Extra Fancy Unsalted Mixed Nuts;1
+1410;142399;Sinfully Sweet Campari Tomatoes, Strawberries, Organic Crimini Mushrooms, Blackberries;4
+1411;142473;Soy Free Buttery Spread with Olive Oil;1
+1412;142533;Organic Large Brown Eggs;1
+1413;143160;Grade A Goat Milk;1
+1414;143334;Organic Low Fat Milk, Honeycrisp Apples;2
+1415;143371;Premium Italian Bread;1
+1416;143531;Grade A Large White Eggs, Grade A Large White Eggs, Grade A Large White Eggs, Cage Free Brown Eggs-Large, Grade A;5
+1417;143595;Grade A Large Eggs Cage Free Omega 3, Roma Tomato, Unsweetened Vanilla Almond Milk, Grade A Large Eggs Cage Free Omega 3;4
+1418;143614;Low Fat 1% Milk;1
+1419;143781;Jalapeno Peppers;1
+1420;143864;Leafy Green Romaine Lettuce, American Blend Salad;2
+1421;144028;Bag of Organic Bananas;1
+1422;144059;Large Greenhouse Tomato, Lime, Hearts Of Romaine, Large Greenhouse Tomato;4
+1423;144094;Asparagus Spears, Bag of Organic Bananas;2
+1424;144192;Michigan Organic Kale;1
+1425;144255;Plain Non-Fat Greek Yogurt;1
+1426;144370;Papaya;1
+1427;144526;Red Peppers, Organic Brussels Sprouts;2
+1428;144549;Whole Milk, Whole Milk, Whole Milk;3
+1429;144599;Total 2% Lowfat Plain Greek Yogurt;1
+1430;144831;Organic Whole Grassmilk Milk;1
+1431;144833;Seedless Red Grapes, Fresh Asparagus, Sinfully Sweet Campari Tomatoes, Sinfully Sweet Campari Tomatoes, Sinfully Sweet Campari Tomatoes;5
+1432;144916;2% Reduced Fat Milk, Premium Italian Bread, 2% Reduced Fat Milk, 2% Reduced Fat Milk;4
+1433;144946;Apples, Reduced Fat 2% Milk;2
+1434;144981;Large Lemon;1
+1435;145023;Organic Gala Apples;1
+1436;145037;Organic 2% Reduced Fat Milk, Organic Avocado, Pineapple, Total Plain Greek Strained Yogurt, Organic Reduced Fat 2% Milk, Organic Baby Spinach;6
+1437;145047;Bolthouse Baby Carrots;1
+1438;145136;Banana;1
+1439;145145;Organic Red Onion;1
+1440;145186;Organic Red Delicious Apple, Organic Red Delicious Apple;2
+1441;145212;Light & Fit Strawberry Non Fat Greek Yogurt;1
+1442;145357;2% Reduced Fat Milk;1
+1443;145458;Organic Gala Apples;1
+1444;145658;Total 2% All Natural Greek Strained Yogurt with Honey, Total 2% All Natural Greek Strained Yogurt with Honey, Total 2% All Natural Greek Strained Yogurt with Honey, Total 2% All Natural Greek Strained Yogurt with Honey;4
+1445;145660;Organic Roasted Turkey Breast, 3 lb Clementines;2
+1446;145737;Organic Cherry Tomatoes, Raisin Bran Cereal;2
+1447;146000;Organic Cripps Pink Apples;1
+1448;146225;Organic Unsweetened Almond Milk;1
+1449;146303;Watermelon Chunks, Organic Peeled Whole Baby Carrots, Organic Peeled Whole Baby Carrots, Watermelon Chunks, Organic Peeled Whole Baby Carrots, Organic Navel Orange;6
+1450;146314;Large Lemon;1
+1451;146358;Organic Plain Greek Whole Milk Yogurt;1
+1452;146418;Organic Peeled Whole Baby Carrots, Fresh Ginger Root, Brownberry Natural Wheat Bread;3
+1453;146469;Organic Vanilla Whole Milk Yogurt;1
+1454;146529;Oven Roasted Turkey;1
+1455;146594;Fat Free Vanilla Yogurt, Red Raspberries;2
+1456;146617;Banana, Banana, Bag of Organic Bananas;3
+1457;146951;Iceberg Garden Salad Blend;1
+1458;147155;Organic Sugar Snap Peas;1
+1459;147204;Gluten Free Sliced Mountain White Bread;1
+1460;147384;Grade AA Large White Eggs, European Cucumber, Ataulfo Mango, Original Life Cereal, Ataulfo Mango;5
+1461;147520;Cage Free Brown Eggs-Large, Grade A;2
+1462;147539;Bag of Organic Bananas;1
+1463;147674;Original Life Cereal;1
+1464;147695;Organic White Onions, Banana, Strawberries;3
+1465;147759;Citrus Mandarins Organic;1
+1466;147785;Sliced White Mushrooms;1
+1467;147810;Organic Garnet Sweet Potato (Yam);1
+1468;147872;Pomegranate on the Bottom Non-Fat Greek Yogurt;1
+1469;148011;Low Fat Plain Yogurt;1
+1470;148038;Organic Gala Apples;1
+1471;148150;Organic Red Onion;1
+1472;148181;Plain Almond Milk Yogurt;1
+1473;148190;Whole Milk Plain Yogurt;1
+1474;148541;Frozen Organic Blueberries, Organic Strawberries, Organic Strawberries, Organic Baby Spinach;4
+1475;148802;Baby Carrots, Banana, Banana, 2% Reduced Fat Milk;4
+1476;149067;Organic Iceberg Lettuce;1
+1477;149138;White Corn;1
+1478;149320;Organic Sweet Pea, Organic D'Anjou Pears;2
+1479;149549;Strawberries;1
+1480;149740;Deli Fresh Honey Smoked Turkey Breast, 98% Fat Free, Gluten Free;3
+1481;149815;Multigrain Sandwich Bread;1
+1482;149821;Organic Whipped Naturally Buttery Spread;1
+1483;150295;Organic Baby Spinach, Organic Blueberries, Blackberries;3
+1484;150543;Organic Garnet Sweet Potato (Yam);1
+1485;150619;Bag of Organic Bananas, Bag of Organic Bananas;2
+1486;150735;Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt, Tart Cherry Yoghurt, Tandoor Baked Naan, Pepperoni;4
+1487;150758;Organic Uncured Sliced Black Forest Ham;1
+1488;150791;Serrano Chile Peppers, Roasted & Salted Shelled Pistachios;2
+1489;150859;Organic Unsweetened Almond Milk, Hass Avocado Variety;2
+1490;150933;Banana;1
+1491;150973;Organic Blackberries;1
+1492;150978;Organic Avocado;1
+1493;151127;Prosciutto, Hass Avocado, Sliced Prosciutto, Prosciutto, Chocolate Milk;5
+1494;151286;Bag of Organic Bananas;1
+1495;151525;Organic 2% Reduced Fat Milk;1
+1496;151650;Banana, 100% Lactose Free Fat Free Milk;2
+1497;151668;Dairy Free Vanilla Coconut Milk;1
+1498;151780;Organic Hass Avocado, Organic Peeled Whole Baby Carrots, Organic Hass Avocado;3
+1499;151895;Banana, Unsweetened Original Almond Breeze Almond Milk;2
+1500;152013;Vanilla Skyr Nonfat Yogurt;1
+1501;152124;Large Lemon, Unsweetened Almondmilk, Orange Bell Pepper;3
+1502;152194;2% Reduced Fat Milk, Carb Balance Flour Tortillas, Black Forest Ham;3
+1503;152226;Seedless Small Watermelon;1
+1504;152233;Seedless Watermelon;1
+1505;152355;Organic Whipped Naturally Buttery Spread;1
+1506;152393;Brussels Sprouts, Blackberries;2
+1507;152410;Mixed Nuts;1
+1508;152520;Organic Baby Spinach;1
+1509;152587;Tommy/Kent/Keitt/Haden Mango;1
+1510;152638;Organic Strawberries;1
+1511;152644;Limes;1
+1512;152657;Organic Red Grapes;1
+1513;152767;Organic Strawberries, Bag of Organic Bananas;2
+1514;152785;Organic Baby Spinach;1
+1515;152786;Pecorino Romano, Organic Milk Reduced Fat, 2% Milkfat, Organic Reduced Fat 2% Milk;4
+1516;152834;Grade A Large Eggs Cage Free Omega 3;1
+1517;152909;Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt;1
+1518;153288;Blackberries;1
+1519;153349;Bananas;1
+1520;153588;Organic Gala Apples;1
+1521;153840;Milk Whole, Milk Whole, Milk Whole, Milk Whole;4
+1522;153943;Vitamin C Super Orange Dietary Supplement;1
+1523;154013;Red Peppers;1
+1524;154228;Organic Green Cabbage, Honey Wheat Bread, Sweet Corn On The Cob, Large Greenhouse Tomato, 100% Whole Wheat Bread;5
+1525;154336;Strawberries;1
+1526;154366;Bolthouse Baby Carrots, Italian Dry Salame, Banana;3
+1527;154369;Reduced Fat 2% Milk;1
+1528;154522;YoKids Strawberry Banana/Strawberry Yogurt;1
+1529;154619;Low Fat Key Lime Blended Greek Yogurt, Unsweetened Original Almond Breeze Almond Milk, Non-Fat Blueberry on the Bottom Greek Yogurt;3
+1530;154660;Organic Cripps Pink Apples;1
+1531;154700;Bread, Country Buttermilk;2
+1532;154816;Hearts Of Romaine;1
+1533;154834;Organic Whole Milk;1
+1534;154864;Organic 2% Chocolate Milk;1
+1535;154981;Asparation/Broccolini/Baby Broccoli, Strawberries, White Sliced Mushrooms, Banana;4
+1536;155115;Organic Raspberries;1
+1537;155212;No Sugar Added Muesli Cereal;1
+1538;155349;Red Delicious Apples, Bunny-Luv Organic Carrots;2
+1539;155385;Organic Granny Smith Apple;1
+1540;155467;1% Lowfat Milk, Organic Lowfat 1% Milk, 1% Lowfat Milk;3
+1541;155479;Coconut Yogurt;1
+1542;155641;California Sourdough Bread, Whole Milk, Organic Garlic;3
+1543;155690;Sourdough Bread, Sourdough Bread, Sourdough Bread, Organic Grape Tomatoes;4
+1544;155768;The Ultimate Beefless Burger;1
+1545;155831;Bag of Organic Bananas;1
+1546;155867;Organic Raw Cashews;1
+1547;155951;Large Alfresco Eggs;1
+1548;156084;Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale;3
+1549;156203;Organic Romaine Leaf, Organic Garlic;2
+1550;156336;Total 2% Greek Strained Yogurt with Cherry 5.3 oz;1
+1551;156407;Dressing, Jersey Sweet Onion, Calorie Free;3
+1552;156884;Bunched Carrots;1
+1553;157020;Bag of Organic Bananas;1
+1554;157159;Organic White Pita Bread;1
+1555;157431;Microwave in Bag Green Beans;1
+1556;157455;Bag of Organic Bananas;1
+1557;157493;Organic Spring Mix Salad;1
+1558;157504;Large Lemon, Seedless Small Watermelon;2
+1559;157672;Raisin Bran Cereal, Organic Russet Potato, Organic Russet Potato;3
+1560;157933;Small Hass Avocado, Small Hass Avocado, Small Hass Avocado, Small Hass Avocado;4
+1561;157941;Flour Tortillas, Flour Tortillas, Banana, Banana;4
+1562;158297;Total Greek Strained Yogurt;1
+1563;158331;Soft & Smooth Whole Grain White Bread, Soft & Smooth Whole Grain White Bread;2
+1564;158374;Premium Grapefruit Large;1
+1565;158386;Organic Whole Milk, Organic Whole Milk, Organic Whole Milk, Organic Whole Milk;4
+1566;158631;Oikos Greek Vanilla Yogurt;1
+1567;158767;Organic Baby Lettuces;1
+1568;158865;Organic Grape Tomatoes;1
+1569;158994;Honeycrisp Apples, Organic Large Extra Fancy Fuji Apple, Medium Navel Orange, Honeycrisp Apples;4
+1570;159097;Wasabi & Soy Sauce Almonds;1
+1571;159198;Pineapple;1
+1572;159359;Grade AA Large White Eggs, Sweet Onions, Grade A Large White Eggs;3
+1573;159481;Organic Raspberries, Sensible Foods Kale Veggie Burgers - 4 CT, Kale Greens;3
+1574;159633;Fat Free Skim Milk, Fat Free Skim Milk, Fat Free Skim Milk;3
+1575;159685;Half Dozen Grade A White Eggs Large;1
+1576;159752;Organic Spring Mix Salad, Banana, Mache Blend, Organic Spring Mix;4
+1577;159759;Cream Top Smooth Coffee Yogurt;1
+1578;159958;Original Coconut Milk Beverage;1
+1579;160053;Yukon Gold Potatoes 5lb Bag;1
+1580;160062;Romaine Hearts;1
+1581;160112;Organic Butternut Squash;1
+1582;160133;Organic Green Seedless Grapes;1
+1583;160559;Raisin Bran Cereal, Frosted Flakes;2
+1584;160690;Baby Cut Carrots;1
+1585;160775;Traditional Plain Greek Yogurt;1
+1586;160895;Broccoli Pot Pie With Cheddar Cheese Sauce, Broccoli Pot Pie With Cheddar Cheese Sauce;2
+1587;160993;Oh My Yog! Pacific Coast Strawberry Trilayer Yogurt;1
+1588;161087;Vanilla Unsweetened Almond Milk, Bag of Organic Bananas;2
+1589;161358;Watermelon Chunks;1
+1590;161600;Organic Hass Avocado;1
+1591;161795;Vitamin D Organic Milk;1
+1592;162112;Organic Roasted Sliced Chicken Breast, Organic Roasted Sliced Chicken Breast;2
+1593;162166;Gluten Free Rice Chex, Baby Cut Carrots;2
+1594;162176;Organic Vanilla Almond Milk;1
+1595;162199;Honey Bunches of Oats Honey Roasted Cereal, Honey Bunches of Oats Honey Roasted Cereal, Apple Cinnamon Cheerios Cereal, Apple Cinnamon Cheerios Cereal, Apple Cinnamon Cheerios Cereal;5
+1596;162308;Organic Reduced Fat Milk;1
+1597;162474;Grape White/Green Seedless;1
+1598;162781;Organic Romaine Hearts;1
+1599;162868;Organic Spaghetti Squash;1
+1600;162973;Grade A Large White Eggs, Grade A Large White Eggs, Cucumber Kirby;3
+1601;163167;Walnut Halves & Pieces;1
+1602;163169;Organic Baby Spinach, Organic Baby Spinach;2
+1603;163243;"The \""World's Best\"" Veggie Burger";1
+1604;163298;Organic Vanilla Almond Milk;1
+1605;163452;YoKids Squeezers Organic Low-Fat Yogurt, Strawberry;2
+1606;163498;Reduced Fat Milk 100% Lactose Free;1
+1607;163529;Organic Gala Apples;1
+1608;163729;Organic Whole Milk;1
+1609;163879;Cucumber Kirby;1
+1610;163997;Toasted Coconut Almondmilk Blend;1
+1611;164105;Strawberries, Strawberries, Strawberries, Strawberries, Strawberries, Strawberries, Strawberries;7
+1612;164242;Organic Jalapeno Pepper;1
+1613;164341;Walnut Halves & Pieces;1
+1614;164356;Honey Nut Cheerios;1
+1615;164361;Organic Promise Autumn Wheat Cereal;1
+1616;164405;Fat Free Milk;1
+1617;164420;Rice Krispies Cereal;1
+1618;164638;Total 0% Nonfat Greek Yogurt, Total 0% Nonfat Greek Yogurt;2
+1619;164727;Smart Start Original Antioxidants Cereal;1
+1620;164814;Seedless Red Grapes;1
+1621;164878;Flip Peanut Butter Dream Greek Yogurt, Rotisserie Deli Shave Chicken Breast;2
+1622;165160;Organic Cucumber;1
+1623;165180;Pomegranate Seeds;1
+1624;165248;Crunch Berries Cereal;1
+1625;165281;Oven Roasted Turkey Breast;1
+1626;165326;Organic Unsweetened Almond Milk;1
+1627;165519;Bag of Organic Bananas;1
+1628;165581;Organic Lacinato (Dinosaur) Kale;1
+1629;165773;Carrots, Sliced Wheat Bread, Whole Milk, Whole Milk;4
+1630;165895;Organic Baby Spinach, Organic Strawberries, Organic Strawberries, Cereal;4
+1631;165994;Ezekiel 4:9 Sprouted Grain Tortillas;1
+1632;166074;Clementines, Bag;2
+1633;166535;Unsweetened Organic Coconut Milk Light;1
+1634;166632;Organic Strawberries;1
+1635;166754;Lemon Yogurt, Organic Rainbow Carrots, Unsweetened Organic Coconut Milk;3
+1636;166907;Organic Fuji Apples;1
+1637;166963;Organic White Corn & Wheat Tortillas;1
+1638;167146;Dried Mangoes;1
+1639;167268;Strawberries, Organic Strawberries;2
+1640;167547;Organic Avocado;1
+1641;167580;Total 2% All Natural Greek Strained Yogurt with Honey;1
+1642;167591;Bag of Organic Bananas;1
+1643;167786;Banana;1
+1644;167800;Organic Kiwi;1
+1645;167832;Reduced Fat 2% Lactose-Free Milk, Large Enriched Bread;2
+1646;168033;Large Burrito Flour Tortillas, Banana;2
+1647;168204;Original Multigrain Spoonfuls Cereal;1
+1648;168223;Dha Omega 3 Vitamin D Milk, Cheerios Cereal;2
+1649;168330;Bag of Organic Bananas;1
+1650;168447;Organic Greek Whole Milk Blended Vanilla Bean Yogurt;1
+1651;168620;Organic Honey Nut O's Cereal;1
+1652;168624;Vine Ripe Tomatoes;1
+1653;169043;Roma Tomato, Large Lemon, Banana, Banana;4
+1654;169058;Organic Broccoli;1
+1655;169063;Organic Large Brown Grade AA Cage Free Eggs;1
+1656;169131;Unsweetened Almondmilk;1
+1657;169293;Roma Tomato;1
+1658;169396;Total Greek Strained Yogurt, Asparagus;2
+1659;169431;Organic Grade A Large Brown Eggs;1
+1660;169465;Organic Nonfat Milk;1
+1661;169581;Banana, Organic Zucchini;2
+1662;169599;Limes;1
+1663;169669;Honey Wheat Bread, Honey Wheat Bread, Red Onion;3
+1664;169816;Strawberries;1
+1665;170051;Fresh Mozzarella Snacking Cheese;1
+1666;170063;Bag of Organic Bananas;1
+1667;170102;Organic Whole Milk, Organic Plain Whole Milk Yogurt;2
+1668;170183;Large Alfresco Eggs;1
+1669;170279;Asparation/Broccolini/Baby Broccoli;1
+1670;170475;Organic Egg Whites;1
+1671;170512;50/50 Spring Mix & Baby Spinach;1
+1672;170545;Large Alfresco Eggs;1
+1673;170681;Organic Strawberries;1
+1674;170805;Pitted Prunes;1
+1675;170809;Total 0% Nonfat Greek Yogurt;1
+1676;170925;Sugar Snap Peas;1
+1677;170980;Organic Whole Milk, Organic Whole Milk;2
+1678;171037;Michigan Organic Kale;1
+1679;171273;Organic Australian Style Vanilla Lowfat Yogurt;1
+1680;171346;Organic Red Radish, Bunch;2
+1681;171366;Gala Apples, Gala Apples;2
+1682;171367;Bag of Organic Bananas;1
+1683;171412;Large Brown Eggs, Honey Wheat Bread;2
+1684;171433;Large Grade AA Organic Eggs;1
+1685;171500;Total 2% All Natural Greek Strained Yogurt with Honey;1
+1686;171507;Healthy Grains Fiber Cinnamon Oat Clusters;1
+1687;171743;Frosted Mini-Wheats Original Cereal;1
+1688;171821;Vitamin D Organic Whole Milk;1
+1689;171823;Large Brown Eggs;1
+1690;171927;Sweet Butter Salad;1
+1691;171960;Low Fat Key Lime Blended Greek Yogurt;1
+1692;172002;Uncured Genoa Salami;1
+1693;172023;Organic Skim Milk with DHA Omega-3;1
+1694;172241;Seven Grain Crispy Tenders;1
+1695;172368;Carb Balance Small Fajita Whole Wheat Tortillas;1
+1696;172372;Banana, GOLEAN Crunch! Cereal;2
+1697;172684;Yukon Gold Potatoes 5lb Bag;1
+1698;172687;Sweet Corn On The Cob, Icelandic Style Fat Free Plain Yogurt;2
+1699;172884;California Veggie Burgers - 4 CT, Organic Large Brown Grade AA Cage Free Eggs, Organic Baby Broccoli, Organic Baby Broccoli, Milk, Vitamin D;6
+1700;172911;Total 0% Nonfat Plain Greek Yogurt;1
+1701;172957;Icelandic Style Fat Free Plain Yogurt;1
+1702;173117;Organic Whipped Naturally Buttery Spread, Banana;2
+1703;173131;Flip??? Low-Fat Almond Coco Loco Lowfat Greek Yogurt, Flip??? Low-Fat Almond Coco Loco Lowfat Greek Yogurt;2
+1704;173183;Soft & Smooth Whole Grain White Bread, Yellow Onions, 2% Reduced Fat Milk, 2% Reduced Fat Milk, 2% Reduced Fat Milk;5
+1705;173224;Milk, Organic, Vitamin D;3
+1706;173244;Turkey;1
+1707;173323;Shallot;1
+1708;173371;Mandarins Bag;1
+1709;173397;Honeydew Melon, Quaker Life Cinnamon Cereal, Bag of Lemons;3
+1710;173453;Bag of Organic Bananas;1
+1711;173631;Unsweetened Vanilla Almond Milk, Unsweetened Vanilla Almond Milk;2
+1712;173633;Organic Raspberries;1
+1713;173720;Whole Grain White Bread;1
+1714;173751;Organic Blueberries;1
+1715;173784;Organic Blackberries;1
+1716;173822;Organic Hothouse Cucumbers;1
+1717;173970;Organic Fuji Apple;1
+1718;174007;Organic Spring Mix, Organic Baby Spinach, Organic Baby Spinach, Organic Baby Spinach, Organic Baby Spinach, Premium Grapefruit Large;6
+1719;174166;Pecorino Romano;1
+1720;174329;Organic Honey Sweet Whole Wheat Bread;1
+1721;174408;Organic Blueberries, Organic Strawberries, Strawberries;3
+1722;174416;2% Reduced Fat Milk;1
+1723;174567;Organic Good Seed Bread;1
+1724;174607;Rustic Baguette, Organic White Bread Done Right;2
+1725;174661;Organic Lemon;1
+1726;174909;Bag of Organic Fuji Apples;1
+1727;175045;Whole Almonds;1
+1728;175096;Ezekiel 4:9 Bread Organic Sprouted Whole Grain;1
+1729;175317;Wild Sardines in Extra Virgin Olive Oil;1
+1730;175349;Uncured Slow Cooked Ham;1
+1731;175454;Bolthouse Baby Carrots;1
+1732;175541;Organic Traditional Flour Tortillas;1
+1733;175657;Unsweetened Original Almond Breeze Almond Milk;1
+1734;175780;Organic Spring Mix, Organic Garnet Sweet Potato (Yam), Organic Russet Potato;3
+1735;175827;Organic Garnet Sweet Potato (Yam);1
+1736;176000;Veggie Lover's Salad Blend, Yellow Onions;2
+1737;176046;Vanilla Soy Milk, Vanilla Soy Milk, Vanilla Soy Milk, Organic Whole Milk;4
+1738;176467;Total Greek Strained Yogurt;1
+1739;176544;Jalapeno Peppers;1
+1740;176810;All Whites 100% Liquid Egg Whites, Organic Large Grade A Brown Eggs, White Italian Bread, Vitamin D Organic Whole Milk;4
+1741;176813;Green Bell Pepper;1
+1742;176820;Organic Whole Milk;1
+1743;176938;Limes;1
+1744;177011;Organic Garnet Sweet Potato (Yam);1
+1745;177070;Roasted Salted Almonds;1
+1746;177075;Traditional Plain Greek Yogurt, Traditional Plain Greek Yogurt, Traditional Plain Greek Yogurt, Green Onions;4
+1747;177099;Brussels Sprouts;1
+1748;177213;Peach on the Bottom Nonfat Greek Yogurt, Peach on the Bottom Nonfat Greek Yogurt, Peach on the Bottom Nonfat Greek Yogurt;3
+1749;177455;Organic Milk Reduced Fat, 2% Milkfat, Organic Strawberries, Raisin Bran Cereal;4
+1750;177609;Almond Breeze Original Almond Milk;1
+1751;177691;Bag of Organic Bananas;1
+1752;177862;Organic Avocado;1
+1753;177998;Unsweetened Vanilla Almond Milk;1
+1754;178029;Large Lemon;1
+1755;178051;Italian Salad Blend, Hearts Of Romaine, Banana;3
+1756;178151;Total 2% All Natural Greek Strained Yogurt with Honey;1
+1757;178244;Apple Honeycrisp Organic;1
+1758;178320;Bag of Organic Bananas;1
+1759;178442;Organic Unsweetened Almond Milk;1
+1760;178763;Bag of Organic Bananas;1
+1761;178834;Bag of Organic Bananas, Granny Smith Apples, 15 Grain Whole Grain Bread, Blackberries;4
+1762;179033;Cinnamon Toast Crunch, Cherrios Honey Nut, Cinnamon Toast Crunch, Cinnamon Toast Crunch, with Crispy Almonds Cereal;5
+1763;179348;Bananas;1
+1764;179414;Hearts Of Romaine;1
+1765;179439;Ezekiel 4:9 Bread Organic Sprouted Whole Grain;1
+1766;179505;Organic Zucchini;1
+1767;179572;Organic Bell Pepper, Organic Bell Pepper, Organic Bell Pepper;3
+1768;179625;Organic Baby Arugula;1
+1769;179745;Organic Greek Whole Milk Blended Vanilla Bean Yogurt;1
+1770;179843;Baby Spinach;1
+1771;180190;Organic Reduced Fat 2% Milk, Organic Egg Whites, Organic Reduced Fat 2% Milk, Organic Ezekiel 4:9 Sesame Bread, Organic Reduced Fat Milk, Bag of Organic Bananas, Seedless Red Grapes;7
+1772;180319;Original Pure Creamy Almond Milk, Cage Free Large White Eggs, Cage Free Large White Eggs;3
+1773;180334;Unsweetened Soy Milk;1
+1774;180400;Organic Small Bunch Celery, Uncured Genoa Salami, 2% Reduced Fat Organic Milk;3
+1775;180662;Grade A Large Brown Eggs, 100% Whole Wheat Bread, Organic Promise Autumn Wheat Cereal, Organic 2% Reduced Fat Milk;4
+1776;180697;Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale;3
+1777;180704;Uncured Genoa Salami, Uncured Genoa Salami;2
+1778;180784;California Sourdough Bread;1
+1779;180791;Organic Baby Arugula;1
+1780;180826;Organic Bread with 21 Whole Grains;1
+1781;180984;Extra Fancy Unsalted Mixed Nuts, 0% Greek Strained Yogurt, Extra Fancy Unsalted Mixed Nuts, Organic Blackberries, Unsweetened Vanilla Almond Breeze, Organic Strawberries;6
+1782;181142;Organic Artichoke;1
+1783;181174;Organic Green Butter Lettuce, Organic Whole Milk, Organic Greek Whole Milk Blended Vanilla Bean Yogurt;3
+1784;181202;Bag of Organic Bananas;1
+1785;181239;Kefir Cultured Strawberry Milk Drink;1
+1786;181241;Bag of Organic Bananas;1
+1787;181339;Total 2% with Strawberry Lowfat Greek Strained Yogurt, Limes, Organic Green Leaf Lettuce;3
+1788;181362;Organic Hass Avocado Bag;1
+1789;181378;Organic Skim Milk;1
+1790;181495;Organic Lemon, Red Onion;2
+1791;181531;Thin Whole Wheat Sandwich Buns;1
+1792;181621;Organic Hass Avocado, Organic Fuji Apple;2
+1793;181765;Spinach;1
+1794;181855;Organic Baby Broccoli;1
+1795;181879;12 Grain Bread, Jalapeno Pepper, The Original Multi Grain Bread;3
+1796;181939;Organic Red Bell Pepper;1
+1797;181960;Organic Red Radish, Bunch;2
+1798;182049;Uncured Italian Dry Salami, Organic Garnet Sweet Potato (Yam), Organic Lemon;3
+1799;182147;Garlic;1
+1800;182159;Sourdough Baguette, Sourdough Baguette, Organic Reduced Fat 2% Milk, Organic Hass Avocado, Sourdough Baguette;5
+1801;182287;Organic Unsweetened Almond Milk;1
+1802;182446;Bag of Organic Bananas, Bag of Organic Bananas;2
+1803;182457;Bag of Organic Bananas;1
+1804;182577;Nonfat Probiotic Drinks, Nonfat Probiotic Drinks, Nonfat Probiotic Drinks, Nonfat Probiotic Drinks, Broccoli Floret, Broccoli Floret;6
+1805;182584;Organic Red Radish, Bunch;2
+1806;182743;Large Lemon;1
+1807;182800;Organic Gala Apples;1
+1808;182852;Green Beans;1
+1809;182986;Chopped Walnuts;1
+1810;183198;Fresh CA Grown Eggs, Fresh CA Grown Eggs, Fresh CA Grown Eggs, Fresh CA Grown Eggs, Oatmeal Squares Brown Sugar, Whole White Mushrooms, Chunk Light Tuna In Water;7
+1811;183238;Bag of Organic Bananas;1
+1812;183313;Healthy Multi Grain Bread;1
+1813;183326;Natural Mini Pork Pepperoni;1
+1814;183340;Honey Bunches of Oats Honey Roasted with Almonds Cereal;1
+1815;183397;Fat Free Skim Milk;1
+1816;183445;Island Vanilla Cereal;1
+1817;183594;Reduced Fat Milk, Honeycrisp Apple;2
+1818;183604;Small Hass Avocado;1
+1819;183662;Organic Zucchini Squash;1
+1820;183671;Dressing, Jersey Sweet Onion, Calorie Free;3
+1821;183911;Roma Tomato;1
+1822;183958;1% Low Fat Milk;1
+1823;184117;Organic Granny Smith Apples, Green Leaf Shreds, 100% Whole Wheat Bread;3
+1824;184387;100% Lactose Free Fat Free Milk;1
+1825;184402;Strawberries;1
+1826;184477;Cold Brew Coffee Double Espresso with Almond Milk;1
+1827;184510;2% Reduced Fat Milk;1
+1828;184586;Large Alfresco Eggs, Gluten Free Omega Flax & Fiber Bread;2
+1829;184650;Organic Romaine, Black Forest Ham;2
+1830;184671;Organic Large Extra Fancy Fuji Apple;1
+1831;184748;Sweet Corn On The Cob;1
+1832;184916;Bag of Organic Bananas;1
+1833;185019;Butternut Squash;1
+1834;185139;Yellow Onions;1
+1835;185237;Unsweetened Coconut Milk Beverage;1
+1836;185259;Organic Blueberries, Organic Blueberries, Bag of Organic Bananas;3
+1837;185266;Organic Whole Milk;1
+1838;185467;Organic Kiwi;1
+1839;185470;Organic Sliced Crimini Mushrooms;1
+1840;185567;Vine Ripe Tomatoes;1
+1841;185601;Gluten Free Foods Granola, Dha Omega 3 Vitamin D Milk;2
+1842;185609;Non-Fat Greek Yogurt With Strawberries on the Bottom;1
+1843;185667;Organic Free Range Grade A Large Brown Eggs;1
+1844;185713;Cream Top Peach on the Bottom Yogurt;1
+1845;185877;Organic Grade A Free Range Large Brown Eggs, Organic Butternut Squash, Organic Granny Smith Apple;3
+1846;185900;Honeycrisp Apple;1
+1847;185938;Organic Peeled Whole Baby Carrots;1
+1848;185955;Organic Grape Tomatoes;1
+1849;186038;Rice Krispies Cereal, Vanilla Almond Breeze Almond Milk;2
+1850;186253;Dry Roasted Almonds, Bag of Organic Bananas, Bag of Organic Bananas;3
+1851;186463;Organic Baby Bella Mushrooms;1
+1852;186675;Organic Reduced Fat 2% Milk, Organic Reduced Fat 2% Milk, Organic Raspberries, French Baguette;4
+1853;186771;Organic Snipped Green Beans;1
+1854;186902;Yo Baby Organic Whole Milk Banana Mango Yogurt;1
+1855;187122;Ultra-Filtered Whole Milk;1
+1856;187195;Beyond Beef Beefy Crumble;1
+1857;187243;Large Lemon;1
+1858;187274;Lacinato Kale Og;1
+1859;187357;Low Fat Vanilla Yogurt;1
+1860;187383;Green Leaf Shreds, 2% Reduced Fat Milk, Large Eggs, Iceberg Garden Salad Blend, Deli Fresh Honey Smoked Turkey Breast, 98% Fat Free, Gluten Free, Garlic Bread;8
+1861;187418;1% Lowfat Milk;1
+1862;187446;Vanilla 0% Milkfat Yogurt, Vanilla 0% Milkfat Yogurt, Vanilla 0% Milkfat Yogurt;3
+1863;187467;Total 0% Nonfat Greek Yogurt;1
+1864;187705;Organic Greek Plain Nonfat Yogurt;1
+1865;187707;Organic Baby Spinach, Organic Avocado;2
+1866;187796;Organic 2% Reduced Fat Milk, Organic Baby Spinach;2
+1867;187809;Royal Gala Apples;1
+1868;188100;Rocky Mountain Sourdough Bread;1
+1869;188197;Organic Red Radish, Bunch;2
+1870;188253;Bag of Organic Bananas, Uncured Genoa Salami, Uncured Genoa Salami, Bag of Organic Bananas, Great White Bread;5
+1871;188329;2% Reduced Fat Milk, Jumbo Grade A Eggs, 2% Reduced Fat Milk;3
+1872;188330;Bag of Organic Bananas, Kiwi;2
+1873;188429;Total 0% Nonfat Greek Yogurt;1
+1874;188470;Organic Broccoli;1
+1875;188540;Cage Free Large White Eggs;1
+1876;188663;Organic Strawberries, Organic Strawberries, Sugar Snap Peas;3
+1877;188679;Organic Gala Apples;1
+1878;188862;Organic Greek Plain Nonfat Yogurt;1
+1879;188867;Jalapeno Peppers, Organic Hass Avocado, Vanilla Skyr Style Yogurt;3
+1880;188878;Organic Banana;1
+1881;189151;Yellow Onions;1
+1882;189153;Original Multigrain Spoonfuls Cereal;1
+1883;189179;Organic Lemon;1
+1884;189193;Apple Honeycrisp Organic;1
+1885;189956;Unsweetened Organic Coconut Milk, Unsweetened Organic Coconut Milk, Unsweetened Organic Coconut Milk;3
+1886;190042;Total 0% Nonfat Plain Greek Yogurt;1
+1887;190131;Spinach, Large Grade AA Eggs;2
+1888;190140;Organic Lacinato (Dinosaur) Kale;1
+1889;190287;Bag of Organic Bananas;1
+1890;190290;Total 2% Greek Strained Yogurt with Cherry 5.3 oz;1
+1891;190311;Brussel Sprouts, Carb Balance Flour Tortillas, Brussel Sprouts, Brussel Sprouts, Brussel Sprouts;5
+1892;190370;Blackberries, Strawberries;2
+1893;190410;Organic Vanilla Almond Milk, Gluten Free Fire-Roasted Vegetable Pizza;2
+1894;190443;Organic Lactose Free 1% Lowfat Milk;1
+1895;190457;Cage Free Grade A Large Brown Eggs;1
+1896;190741;Brownberry Natural Wheat Bread, Brownberry Natural Wheat Bread, Brownberry Natural Wheat Bread, Red Bell Pepper;4
+1897;190813;Organic Baby Arugula, Organic Baby Arugula, Organic Cripps Pink Apples;3
+1898;191045;Bag of Organic Bananas;1
+1899;191085;Fresh Whole White Mushrooms;1
+1900;191149;Sugar Snap Peas, Chopped Walnuts, Organic Cripps Pink Apples;3
+1901;191185;Organic Yellow Onion;1
+1902;191317;Organic Tomato Cluster;1
+1903;191352;Flip??? Low-Fat Key Lime Crumble Greek Yogurt;1
+1904;191417;Original Life Cereal, Original Life Cereal;2
+1905;191516;Crispix Rice & Corn Cereal;1
+1906;191669;Raw Almonds, Napa Cabbage;2
+1907;191730;Cherrios Honey Nut, 0% Greek Strained Yogurt;2
+1908;191808;Veganic Sprouted Brown Rice Cacao Crisps;1
+1909;191848;Organic Grade A Free Range Large Brown Eggs;1
+1910;191921;Organic Fat Free Milk, Total 0% Greek Yogurt, Sourdough Baguette, Sourdough Baguette;4
+1911;191949;Banana, 1% Low Fat Milk, 1% Low Fat Milk;3
+1912;192068;Organic Baby Kale;1
+1913;192330;Pecan Halves, Organic Lowfat Plain Unsweetened Kefir;2
+1914;192566;Organic Avocado;1
+1915;192766;Organic Lacinato (Dinosaur) Kale;1
+1916;192825;Red Peppers;1
+1917;192888;The Original Multi Grain Bread, The Original Multi Grain Bread, The Original Multi Grain Bread, The Original Multi Grain Bread;4
+1918;192902;with Crispy Almonds Cereal, Cinnamon Toast Crunch, Smoked Gouda;3
+1919;192992;Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk, Reduced Fat 2% Milk;7
+1920;193426;Cage Free Brown Eggs-Large, Grade A;2
+1921;193510;Country White Bread;1
+1922;193537;Go Lean Cereal, Go Lean Cereal, Go Lean Cereal;3
+1923;193541;Honeydew Chunks, Organic Celery Hearts;2
+1924;193612;Total 2% Greek Strained Yogurt with Cherry 5.3 oz;1
+1925;193619;Banana, Boniato Sweet Potato, Banana;3
+1926;193967;Low-Fat Strawberry Banana on the Bottom Greek Yogurt;1
+1927;193969;Reduced Fat Milk 2%;1
+1928;194108;Organic 1% Lowfat Milk, Organic 1% Lowfat Milk;2
+1929;194264;Original Life Cereal;1
+1930;194463;Organic Hass Avocado, Organic Eggs Large;2
+1931;194623;Organic Strawberries, Organic Original Almond Milk;2
+1932;194706;Brussel Sprouts, Brussel Sprouts, Brussel Sprouts, Brussel Sprouts, Brussel Sprouts, Brussel Sprouts, Brussel Sprouts;7
+1933;194753;Organic Baby Spinach;1
+1934;194776;Bag of Organic Bananas;1
+1935;194838;Large Alfresco Eggs;1
+1936;195126;Baby Spinach Salad, Clementines, Bag;3
+1937;195212;Baby Bok Choy;1
+1938;195285;Organic Red Bell Pepper;1
+1939;195333;Organic Hass Avocado, Apple Honeycrisp Organic;2
+1940;195422;The Original Multi Grain Bread;1
+1941;195431;Chocolate Lowfat Milk, Organic Thompson Seedless Raisins;2
+1942;195579;Nonfat Probiotic Drinks;1
+1943;195639;Organic Extra Large Brown Eggs;1
+1944;195655;Banana, Grade A Extra Large Eggs, Kale Salad;3
+1945;195699;Shredded Carrots;1
+1946;195830;Large Burrito Flour Tortillas, Organic Large Grade AA Brown Eggs, Large Lemon, Original Pure Creamy Almond Milk;4
+1947;195836;Bartlett Pears;1
+1948;195892;Green Tea With Ginseng and Honey, Honeycrisp Apple, Walnut Halves & Pieces, Asparagus;4
+1949;196036;Organic Raisins, Organic Raisins;2
+1950;196329;Pink Lady (Cripps) Apple, Organic Baby Rainbow Carrots, Organic Fat Free Milk, Red Peppers;4
+1951;196583;Chopped Walnuts;1
+1952;196701;Pork Chorizo;1
+1953;196821;Organic Baby Spinach, Cucumber Kirby, Banana, Banana;4
+1954;196876;Organic Cooked Beets, Bunny-Luv Organic Carrots, Dry Roasted Almonds, Carrots, Carrots, Dry Roasted Almonds, Dry Roasted Almonds;7
+1955;196893;Artisan Sausage Pineapple Uncured Bacon Hardwood Smoked with Vermont Maple Syrup, Vanilla Almond Breeze Almond Milk, Honey Nut Cheerios;3
+1956;196985;Sinfully Sweet Campari Tomatoes, Organic Crimini Mushrooms, Sinfully Sweet Campari Tomatoes, Sinfully Sweet Campari Tomatoes, Sinfully Sweet Campari Tomatoes;5
+1957;197004;Honey Nut Cheerios;1
+1958;197171;Delifresh Mesquite Turkey Breast, 98% Fat Free, Gluten Free, All Whites 100% Liquid Egg Whites;4
+1959;197253;XL Emerald White Seedless Grapes;1
+1960;197395;Bag of Organic Bananas;1
+1961;197737;Almond Breeze Original Almond Milk;1
+1962;197857;Ezekiel 4:9 Sprouted Grain Tortillas;1
+1963;197881;Mango Yoghurt;1
+1964;198327;Organic Strawberries, Organic Strawberries, Bag of Organic Bananas, Bag of Organic Bananas, Fuji Apples;5
+1965;198350;Sweet Potato Yam;1
+1966;198574;Limes;1
+1967;199058;Organic Large Green Asparagus;1
+1968;199153;Organic Garnet Sweet Potato (Yam);1
+1969;199181;Reduced Fat 2% Milk, Reduced Fat 2% Milk, Cereal, Cereal;4
+1970;199215;Large Grapefruit;1
+1971;199392;White Corn Tortillas, 100% Whole Wheat Bread, Lowfat Vanilla Yogurt, Romaine Hearts, 100% Whole Wheat Bread, Banana;6
+1972;199476;1% Milkfat Low Fat Vitamin A & D Milk;1
+1973;199582;Red Raspberries;1
+1974;199614;Organic Extra Large Brown Eggs;1
+1975;199622;Total Greek Strained Yogurt;1
+1976;199660;Green Tea With Ginseng and Honey, Organic Bread with 21 Whole Grains, Organic Bread with 21 Whole Grains, Dubliner Wedge Pre Cut Cheese;4
+1977;199707;Split Top Wheat Bread, Sinfully Sweet Campari Tomatoes, Apples, Apples;4
+1978;199734;Low Fat Plain Yogurt;1
+1979;199915;Lacinato Kale Og;1
+1980;199962;Organic Yokids Lemonade/Blueberry Variety Pack Yogurt Squeezers Tubes;1
+1981;199969;Vanilla Soy Creamer, Vanilla Soy Creamer, Vanilla Soy Creamer, Vanilla Soy Creamer, Vanilla Soy Creamer, Vanilla Soy Creamer, Vanilla Soy Creamer;7
+1982;200041;Unsweetened Almondmilk, Organic Zucchini Spirals;2
+1983;200249;Smokehouse Almonds, 0% Greek Strained Yogurt, Smokehouse Almonds, Dry Roasted Almonds, Organic Blackberries;5
+1984;200295;Large Alfresco Eggs;1
+1985;200419;Harvest Peach Yogurt;1
+1986;200447;Vitamin D Milk, Large Lemon, Large Burrito Flour Tortillas, Low Fat 1% Milk;4
+1987;200521;Organic Lowfat 1% Milk, Organic Lowfat 1% Milk, Organic Strawberries, Organic Lowfat 1% Milk, Organic Strawberries;5
+1988;200618;Milk, Reduced Fat, 2% Milkfat;3
+1989;200742;Seedless Small Watermelon;1
+1990;200957;Bag of Organic Bananas;1
+1991;201054;Whole Natural Value Pack Almonds;1
+1992;201126;Strawberries, Organic Chocolate 1% Milk with DHA Omega-3, Banana;3
+1993;201227;Whole Grain Loaf;1
+1994;201239;Green Cabbage, Organic Zucchini Spirals, Organic Zucchini Spirals;3
+1995;201310;Organic Granny Smith Apple;1
+1996;201378;Bag of Organic Bananas;1
+1997;201471;Fresh Spinach, Cut & Peeled Baby Carrots, Vitamin D Whole Milk;3
+1998;201624;Organic Baby Spinach, Super Greens Veggie Burgers, Green Bell Pepper;3
+1999;201839;Organic Grape Tomatoes;1
+2000;201871;Fresh Ginger Root;1
+2001;201941;Organic Large Extra Fancy Fuji Apple, Organic Large Extra Fancy Fuji Apple, Organic Large Extra Fancy Fuji Apple;3
+2002;202042;Large Lemon, Organic Large Grade A Brown Eggs, Organic Large Grade A Brown Eggs;3
+2003;202080;Vitamin C Super Orange Dietary Supplement, Bag of Organic Bananas, Bag of Organic Bananas, Bag of Organic Bananas, Vitamin C Super Orange Dietary Supplement;5
+2004;202255;Bag of Organic Bananas, Bag of Organic Bananas;2
+2005;202290;Cage Free Grade A Large Brown Eggs;1
+2006;202335;Chik'n Nuggets, Small Hass Avocado;2
+2007;202485;Cage Free Large White Eggs;1
+2008;202589;French Baguettes, Take & Bake, Twin Pack;3
+2009;202652;Eggs, Organic, Pasture-Raised, Large;4
+2010;202935;Bag of Organic Bananas, Bag of Organic Bananas;2
+2011;203005;Apple Cinnamon Cheerios Cereal;1
+2012;203018;Organic Baby Broccoli;1
+2013;203026;ALMONDBREEZE UNSWEETENED, Bag of Organic Bananas;2
+2014;203103;7 Sprouted Grains Bread;1
+2015;203117;Seedless Small Watermelon, Seedless Small Watermelon, Hass Avocado Variety;3
+2016;203176;Sweet Onions;1
+2017;203250;Organic Baby Spinach;1
+2018;203262;Prosciutto, Americano;2
+2019;203300;Organic Red Chard Greens;1
+2020;203369;Fresh Ginger Root;1
+2021;203582;100% Whole Wheat Bread;1
+2022;203639;Organic Red Bell Pepper;1
+2023;203655;Flip Peanut Butter Dream Greek Yogurt;1
+2024;203703;Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale;3
+2025;203717;Lettuce Red Butter Organic;1
+2026;203788;Total 2% Lowfat Plain Greek Yogurt;1
+2027;203873;YoKids Blueberry & Strawberry/Vanilla Yogurt;1
+2028;203909;Organic Green Seedless Grapes;1
+2029;204210;Cafe Latte Pure Lightly Sweetened Iced Coffee With Almond Milk;1
+2030;204244;Organic Soft White Bread, Shallot, Organic Whole Grassmilk Milk;3
+2031;204388;Organic Ezekiel 49 Bread Cinnamon Raisin;1
+2032;204412;Clementines, Bag, Clementines, Bag, Clementines, Bag, Clementines, Bag, Honeycrisp Apples;9
+2033;204460;Beefsteak Tomatoes, Beefsteak Tomatoes, 2% Lactose Free Milk, Bunny-Luv Organic Carrots;4
+2034;204465;2% Reduced Fat Milk;1
+2035;204535;Bag of Organic Bananas;1
+2036;204662;Large Lemon;1
+2037;204863;Organic Bagged Carrots;1
+2038;204890;Organic Whole Milk;1
+2039;205127;Bag of Organic Bananas;1
+2040;205148;2% Chocolate Milk;1
+2041;205227;Organic Large Extra Fancy Fuji Apple;1
+2042;205674;Organic Lemon Lowfat Yogurt;1
+2043;205739;Large Greenhouse Tomato, Red Potatoes;2
+2044;205836;Premium Sweet Petites Carrots;1
+2045;205926;Unsweetened Almondmilk, Bag of Organic Bananas, Bag of Organic Bananas;3
+2046;205971;Artisan Sausage Pineapple Uncured Bacon Hardwood Smoked with Vermont Maple Syrup;1
+2047;206015;Strawberries;1
+2048;206039;Reduced Fat 2% Milk, Reduced Fat 2% Milk;2
+2049;206143;Total 0% with Honey Nonfat Greek Strained Yogurt, Total 0% with Honey Nonfat Greek Strained Yogurt, Baby Spinach;3
+2050;206157;Grade A Extra Large Eggs;1
