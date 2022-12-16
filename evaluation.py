@@ -117,10 +117,11 @@ products_list = test_combined_df.product_names.unique()
 products_freq = test_combined_df.product_names.value_counts()
 
 eval_user_ids = eval_orders.user_id.unique()
-import random
-random.seed(650)
-eval_user_ids = random.sample(eval_user_ids, 50)
-b1_order = random.sample(products_list, 10)
+
+import numpy as np
+np.random.seed(650)
+eval_user_ids = np.random.choice(eval_user_ids, 100)
+b1_order = np.random.choice(products_list, 10)
 b2_order = products_freq.iloc[:10].index.to_list()
 b1_order_pooled = BERT_embedding(b1_order, model, tokenizer)
 b2_order_pooled = BERT_embedding(b2_order, model, tokenizer)
