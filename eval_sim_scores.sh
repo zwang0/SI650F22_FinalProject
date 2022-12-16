@@ -11,7 +11,7 @@
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --mem-per-cpu=128GB
-#SBATCH --time=2:00:00
+#SBATCH --time=8:00:00
 #SBATCH --account=stats_dept1
 #SBATCH --partition=standard
 #SBATCH --output=/home/%u/SI650/SI650F22_FinalProject/logs/%x-%j.log
