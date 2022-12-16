@@ -88,7 +88,7 @@ def BERT_embedding(texts, model, tokenizer):
 # prediction evaluation
 results_dir = os.path.join(ROOT_DIR, "train", "results")
 
-pred_orders = pd.read_csv(os.path.join(results_dir,"prediction_orders.csv"), sep=";")
+pred_orders = pd.read_csv(os.path.join(results_dir,"prediction_orders2.csv"), sep=";")
 eval_orders = pd.read_csv(os.path.join(results_dir,"test_y_df.csv"), sep=";")
 
 eval_user_ids = pred_orders.user_id.unique()
@@ -106,4 +106,4 @@ for id in eval_user_ids:
     cos_sim = cosine_similarity(pred_order_pooled, eval_order_pooled)
     cos_sims.loc[cos_sims.user_id==id, 'cos_sim'] = cos_sim.mean()
 
-cos_sims.to_csv(os.path.join(ROOT_DIR, "eval_cos_sim_scores.csv"))
+cos_sims.to_csv(os.path.join(ROOT_DIR, "eval_cos_sim_scores2.csv"), index=False)
