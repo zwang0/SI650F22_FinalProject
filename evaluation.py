@@ -85,25 +85,57 @@ def BERT_embedding(texts, model, tokenizer):
 # print(b1_cos_sims.mean())
 # print(b2_cos_sims.mean())
 
-# prediction evaluation
+# # prediction evaluation
+# results_dir = os.path.join(ROOT_DIR, "train", "results")
+
+# pred_orders = pd.read_csv(os.path.join(results_dir,"prediction_orders2.csv"), sep=";")
+# eval_orders = pd.read_csv(os.path.join(results_dir,"test_y_df.csv"), sep=";")
+
+# eval_user_ids = pred_orders.user_id.unique()
+
+# cos_sims = pd.DataFrame({'user_id':eval_user_ids, 'cos_sim':[0]*len(eval_user_ids)})
+
+# for id in eval_user_ids:
+#     pred_order = pred_orders.loc[pred_orders.user_id == id, 'predict_order'].to_list()[0]
+#     pred_order_names = pred_order.split(',')
+#     eval_order = eval_orders.loc[eval_orders.user_id == id, 'order_names'].to_list()
+#     eval_order_names = [order.split(', ') for order in eval_order]
+#     eval_order_names = np.unique(list(itertools.chain.from_iterable(eval_order_names)))
+#     pred_order_pooled = BERT_embedding(pred_order, model, tokenizer)
+#     eval_order_pooled = BERT_embedding(eval_order, model, tokenizer)
+#     cos_sim = cosine_similarity(pred_order_pooled, eval_order_pooled)
+#     cos_sims.loc[cos_sims.user_id==id, 'cos_sim'] = cos_sim.mean()
+
+# cos_sims.to_csv(os.path.join(ROOT_DIR, "eval_cos_sim_scores2.csv"), index=False)
+
+# rerun baseline1 & 2
 results_dir = os.path.join(ROOT_DIR, "train", "results")
 
-pred_orders = pd.read_csv(os.path.join(results_dir,"prediction_orders2.csv"), sep=";")
 eval_orders = pd.read_csv(os.path.join(results_dir,"test_y_df.csv"), sep=";")
+test_combined_df = pd.read_csv(os.path.join(results_dir, "test_combined_df.csv"), sep=";")
+products_list = test_combined_df.product_names.unique()
+products_freq = test_combined_df.product_names.value_counts()
 
-eval_user_ids = pred_orders.user_id.unique()
+eval_user_ids = eval_orders.user_id.unique()
+import random
+random.seed(650)
+eval_user_ids = random.sample(eval_user_ids, 50)
+b1_order = random.sample(products_list, 10)
+b2_order = products_freq.iloc[:10].index.to_list()
+b1_order_pooled = BERT_embedding(b1_order, model, tokenizer)
+b2_order_pooled = BERT_embedding(b2_order, model, tokenizer)
 
-cos_sims = pd.DataFrame({'user_id':eval_user_ids, 'cos_sim':[0]*len(eval_user_ids)})
-
+cos_sims = pd.DataFrame({'user_id':eval_user_ids, 
+                         'b1_cos_sim':[0]*len(eval_user_ids),
+                         'b2_cos_sim':[0]*len(eval_user_ids)})
 for id in eval_user_ids:
-    pred_order = pred_orders.loc[pred_orders.user_id == id, 'predict_order'].to_list()[0]
-    pred_order_names = pred_order.split(',')
     eval_order = eval_orders.loc[eval_orders.user_id == id, 'order_names'].to_list()
     eval_order_names = [order.split(', ') for order in eval_order]
     eval_order_names = np.unique(list(itertools.chain.from_iterable(eval_order_names)))
-    pred_order_pooled = BERT_embedding(pred_order, model, tokenizer)
     eval_order_pooled = BERT_embedding(eval_order, model, tokenizer)
-    cos_sim = cosine_similarity(pred_order_pooled, eval_order_pooled)
-    cos_sims.loc[cos_sims.user_id==id, 'cos_sim'] = cos_sim.mean()
+    b1_cos_sim = cosine_similarity(b1_order_pooled, eval_order_pooled)
+    b2_cos_sim = cosine_similarity(b2_order_pooled, eval_order_pooled)
+    cos_sims.loc[cos_sims.user_id==id, 'b1_cos_sim'] = b1_cos_sim.mean()
+    cos_sims.loc[cos_sims.user_id==id, 'b2_cos_sim'] = b2_cos_sim.mean()
 
-cos_sims.to_csv(os.path.join(ROOT_DIR, "eval_cos_sim_scores2.csv"), index=False)
+cos_sims.to_csv(os.path.join(ROOT_DIR, "baseline12_cos_sim_scores.csv"), index=False)
