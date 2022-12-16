@@ -32,6 +32,11 @@ def gen_order(df, thres):
     pre_order = ", ".join(product for product in product_list)
     return pre_order
 
+def gen_order2(df, topk):
+    product_list = df.nlargest(topk, 'pred_scores')['product_names'].to_list()
+    pre_order = ", ".join(product for product in product_list)
+    return pre_order
+
 def order_length(orders):
     lens = []
     for order in orders:
@@ -41,12 +46,20 @@ def order_length(orders):
             lens.append(len(order.split(",")))
     return lens
 
-predict_df = test_combined_df.groupby('user_id').apply(lambda df: gen_order(df, 0.3))
-predict_df = pd.DataFrame(predict_df)
-predict_df.reset_index(inplace=True)
-predict_df.columns = ['user_id', 'predict_order']
-predict_df['order_length'] = order_length(predict_df.predict_order.to_list())
+# predict_df = test_combined_df.groupby('user_id').apply(lambda df: gen_order(df, 0.3))
+# predict_df = pd.DataFrame(predict_df)
+# predict_df.reset_index(inplace=True)
+# predict_df.columns = ['user_id', 'predict_order']
+# predict_df['order_length'] = order_length(predict_df.predict_order.to_list())
 
-predict_df.to_csv(os.path.join(results_dir, "prediction_orders.csv"), sep=";")
+# predict_df.to_csv(os.path.join(results_dir, "prediction_orders.csv"), sep=";")
+
+predict_df2 = test_combined_df.groupby('user_id').apply(lambda df: gen_order2(df, 10))
+predict_df2 = pd.DataFrame(predict_df2)
+predict_df2.reset_index(inplace=True)
+predict_df2.columns = ['user_id', 'predict_order']
+predict_df2['order_length'] = order_length(predict_df2.predict_order.to_list())
+
+predict_df2.to_csv(os.path.join(results_dir, "prediction_orders2.csv"), sep=";", index=False)
 
     
