@@ -120,7 +120,7 @@ eval_user_ids = eval_orders.user_id.unique()
 
 import numpy as np
 np.random.seed(650)
-eval_user_ids = np.random.choice(eval_user_ids, 100)
+# eval_user_ids = np.random.choice(eval_user_ids, 100)
 b1_order = np.random.choice(products_list, 10)
 b2_order = products_freq.iloc[:10].index.to_list()
 b1_order_pooled = BERT_embedding(b1_order, model, tokenizer)
@@ -139,4 +139,4 @@ for id in eval_user_ids:
     cos_sims.loc[cos_sims.user_id==id, 'b1_cos_sim'] = b1_cos_sim.mean()
     cos_sims.loc[cos_sims.user_id==id, 'b2_cos_sim'] = b2_cos_sim.mean()
 
-cos_sims.to_csv(os.path.join(ROOT_DIR, "baseline12_cos_sim_scores.csv"), index=False)
+cos_sims.to_csv(os.path.join(ROOT_DIR, "baseline12_cos_sim_scores2.csv"), index=False)
